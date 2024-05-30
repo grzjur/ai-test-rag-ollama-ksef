@@ -1,0 +1,740 @@
+{
+    "questions": [
+        {
+            "question": "Jaki jest planowany termin wdrożenia obowiązkowego KSeF? Kiedy zostaną opublikowane rozporządzenia wykonawcze dotyczące KSeF?",
+            "answer": "Krajowy System e-Faktur (KSeF) miał obowiązywać od 1 lipca 2024 r., jednak został przesunięty. Nowa data nie została jeszcze ustalona. Ministerstwo Finansów planuje opublikować rozporządzenia wykonawcze dotyczące KSeF po zakończeniu procesu konsultacji."
+        },
+        {
+            "question": "Jak zmiana wpłynie na koszty biznesu związane z przygotowaniem się do korzystania z KSeF? Czy konieczny będzie zakup licencji do zaktualizowanych programów księgowych zintegrowanych z KSeF? Czy konieczne będzie ponowne przeszkolenie pracowników? Czy przedsiębiorcy będą musieli ponosić koszty pozostawania w gotowości do wdrożenia obowiązkowego KSeF?",
+            "answer": "Odroczenie terminu wdrożenia KSeF nie powinno generować dodatkowych kosztów dla przedsiębiorców. Ministerstwo Finansów nie planuje daleko idących zmian. Konieczność zakupu licencji do zaktualizowanych programów księgowych i przeszkolenia pracowników zależy od indywidualnych potrzeb i decyzji przedsiębiorców."
+        },
+        {
+            "question": "Czy poza kwestiami technicznymi Ministerstwo Finansów dopuszcza inne zmiany w zasadach działania KSeF, np. poprzez zmianę zakresu raportowanych danych lub innych kluczowych założeń?",
+            "answer": "Ministerstwo Finansów potwierdza obecne założenia KSeF i nie planuje innych znaczących zmian."
+        },
+        {
+            "question": "Czy modyfikowane będą narzędzia udostępnione przez Ministerstwo Finansów, z których już korzystają przedsiębiorcy tj. Aplikacja Podatnika KSeF, e-mikrofirma?",
+            "answer": "Bezpłatne narzędzia udostępnione przez Ministerstwo Finansów, takie jak Aplikacja Podatnika KSeF i e-mikrofirma, będą dostosowane do funkcjonalności KSeF związanych z obligatoryjnym e-fakturowaniem, takimi jak kody QR i identyfikatory zbiorcze płatności."
+        },
+        {
+            "question": "Czy unijne prace dotyczące pakietu VIDA wpłyną na sposób przygotowań do polskiego KSeF?",
+            "answer": "Prace nad unijnym pakietem VIDA są wciąż we wstępnej fazie. Polska dąży do tego, aby pakiety VIDA nie wpłynęły na funkcjonalności KSeF."
+        },
+        {
+            "question": "Czy zmiany będą powodowały konieczność dostosowania przez producentów dostępnych już na rynku komercyjnych programów księgowych do „nowej wersji” KSeF?",
+            "answer": "Ministerstwo Finansów nie planuje znaczących zmian, które wymagałyby dostosowania dostępnych już na rynku komercyjnych programów księgowych."
+        },
+        {
+            "question": "Czy Ministerstwo Finansów dopuszcza scenariusz, w którym w ogóle KSeF nie będzie wdrażany?",
+            "answer": "Ministerstwo Finansów nie planuje rezygnacji z wdrożenia KSeF w wersji obligatoryjnej."
+        },
+        {
+            "question": "Czy Ministerstwo Finansów planuje zmiany opublikowanych już rozporządzeń wykonawczych?",
+            "answer": "Ministerstwo Finansów planuje opublikować projekt nowelizacji ustawy oraz projektów rozporządzeń po zakończeniu procesu konsultacji."
+        },
+        {
+            "question": "Jak obecnie pod kątem obowiązkowego KSeF wygląda kwestia fakturowania przez podmiot zagraniczny lub gdy występuje on w roli nabywcy? Dlaczego podmioty zagraniczne są wyłączone z obowiązkowego KSeF?",
+            "answer": "Podmioty zagraniczne są wyłączone z obowiązku wystawiania faktur w KSeF na podstawie Decyzji wykonawczej Rady (UE) 2022/1003. Jeśli podmiot zagraniczny występuje w roli nabywcy, fakturę można udostępnić w sposób uzgodniony z nim."
+        },
+        {
+            "question": "Do kiedy paragony fiskalne z NIP nabywcy będą uznawane za fakturę uproszczoną i będą wyłączone z obowiązkowego KSeF?",
+            "answer": "Nie planujemy wyłączenia tego obowiązku z KSeF. Niemniej zagadnienie to będzie omawiane w dedykowanej do tego celu grupie, której zadaniem będzie przyjrzenie się etapowości we wdrażaniu KSeF."
+        },
+        {
+            "question": "Czy zagraniczny podmiot zarejestrowany jako podatnik VAT w Polsce, ale nieposiadający siedziby w Polsce, spełnia kryteria posiadania stałego miejsca prowadzenia działalności na terytorium Polski i tym samym jest objęty obowiązkiem e-fakturowania? Jak podatnicy mają zabezpieczyć weryfikację kontrahenta pod kątem siedziby lub stałego miejsca prowadzenia działalności gospodarczej, czy samo oświadczenie kontrahenta zagranicznego wystarczy?",
+            "answer": "Zgodnie z obowiązującymi przepisami, podatnicy zagraniczni nieposiadający siedziby działalności gospodarczej na terytorium Polski, ale posiadający miejsce prowadzenia działalności gospodarczej na terytorium Polski uczestniczące w dostawie towarów lub świadczeniu usług, dla których wystawiana jest faktura, będą objęci obligatoryjnym e-fakturowaniem. Ocena konkretnego stanu faktycznego w celu określenia czy dany podmiot spełnia kryteria posiadania stałego miejsca prowadzenia działalności gospodarczej wymaga indywidualnej analizy. Planowane są wyjaśnienia dotyczące kwestii związanych z definicją stałego miejsca prowadzenia działalności gospodarczej, co jest kluczowe dla określenia obowiązku e-fakturowania."
+        },
+        {
+            "question": "Kiedy zostaną przeprowadzone prace mające na celu poprawę przepustowości systemu?",
+            "answer": "Szczegóły dotyczące prac nad poprawą wydajności Krajowego Systemu e-Faktur będą możliwe po zakończeniu audytu informatycznego oraz analizie płynących z niego wniosków. Działania związane ze zwiększeniem przepustowości systemu będą traktowane priorytetowo przez Ministerstwo Finansów."
+        },
+        {
+            "question": "Czy faktury wystawiane na rzecz osób fizycznych prowadzących działalność gospodarczą, które dotyczą zakupu towarów lub usług na użytek prywatny będą wyłączone z obowiązkowego KSeF? W jaki sposób należy odróżnić/weryfikować podatnika od konsumenta na gruncie KSeF, zwłaszcza, że część podatników nie ma numeru NIP? W jaki sposób podatnik ma dokonywać weryfikacji statusu kontrahenta, czy samo kryterium posiadania NIP będzie uznane za prawidłowe, żeby zakwalifikować kontrahenta do KSeF?",
+            "answer": "Obecnie faktury wystawiane na rzecz osób fizycznych nieprowadzących działalności gospodarczej oraz na potrzeby prywatne nie są objęte obowiązkowym KSeF. Identyfikacja podatników na gruncie KSeF, zwłaszcza tych, którzy nie posiadają numeru NIP, będzie przedmiotem dalszej analizy. Planowane są konsultacje publiczne i dialog z przedsiębiorcami w celu ustalenia odpowiednich rozwiązań."
+        },
+        {
+            "question": "Czy nałożenie obowiązku fakturowania w KSeF przez podatników zagranicznych, którzy mają w Polsce stałe miejsce prowadzenia działalności gospodarczej, jest zgodne z prawem UE?",
+            "answer": "Decyzja wykonawcza Rady Unii Europejskiej upoważniająca Polskę do nałożenia obowiązku e-fakturowania na podatników zagranicznych, którzy mają w Polsce stałe miejsce prowadzenia działalności gospodarczej, jest zgodna z regulacjami UE (Decyzja wykonawcza Rady (UE) 2022/1003)."
+        },
+        {
+            "question": "Jakie błędy systemu KSeF zostały dotychczas wykryte?",
+            "answer": "Błędy dotyczące wydajności Krajowego Systemu e-Faktur zostały zidentyfikowane przez Ministerstwo Finansów. Szczegóły dotyczące tych błędów będą dostępne po zakończeniu audytu informatycznego, który jest aktualnie w trakcie realizacji."
+        },
+        {
+            "question": "Czy planowane jest zniesienie obowiązku podawania danych wszystkich faktur pierwotnych (numerów KSeF, dat wystawienia) w przypadku wystawiania faktur korygujących zbiorczych?",
+            "answer": "Struktura FA(2) umożliwia wystawianie faktur korygujących zbiorczych, w których można podać dane wielu faktur korygowanych. Obecnie obowiązujące przepisy (art. 106j ust. 2 i ust. 3 ustawy o podatku od towarów i usług) wymagają podawania danych faktury korygowanej, dlatego nie przewiduje się zniesienia tego obowiązku."
+        },
+        {
+            "question": "Czy nastąpi zniesienie planowanego obowiązku podawania numeru KSeF w tytule płatności, biorąc pod uwagę mnogość modeli rozliczeń między kontrahentami?",
+            "answer": "Aktualnie nie planuje się zniesienia obowiązku podawania numeru KSeF w tytule płatności za fakturę ustrukturyzowaną. Ta kwestia będzie przedmiotem dalszych dyskusji i analiz."
+        },
+        {
+            "question": "W obecnym brzmieniu przepisów, obowiązek wystawienia faktury w KSeF dotyczył będzie między innymi faktur wystawianych na rzecz podatników zwolnionych z VAT. Jak Ministerstwo Finansów planuje wspomóc podatników we właściwej weryfikacji statusu kontrahentów?",
+            "answer": "Kwestia weryfikacji statusu kontrahenta, zwłaszcza podatników zwolnionych z VAT, będzie przedmiotem analizy przez Ministerstwo Finansów. Wyniki konsultacji publicznych i dialogu z przedsiębiorcami będą brane pod uwagę przy wprowadzaniu ewentualnych zmian, które mają na celu ułatwienie dokonywania poprawnej weryfikacji."
+        },
+        {
+            "question": "Jaki jest szczegółowy harmonogram działań Ministerstwa Finansów dotyczący KSeF? Czy planowane jest odroczenie obowiązkowego KSeF do czasu wejścia w życie przepisów unijnych w zakresie tzw. pakietu VIDA?",
+            "answer": "Zgodnie z informacjami podanymi przez Ministerstwo Finansów, nowa data wprowadzenia obowiązkowego KSeF planowana jest na przełomie kwietnia i maja 2024 r. Nie planuje się odroczenia wprowadzenia KSeF w związku z wejściem w życie przepisów unijnych związanych z tzw. pakietem VIDA."
+        },
+        {
+            "question": "Które z dotychczas określonych wymagań funkcjonalnych dotyczących KSeF zostaną utrzymane w ostatecznym rozwiązaniu, a które zostaną zmienione i w jaki sposób?",
+            "answer": "Nie są planowane zmiany dotyczące art. 106na ust. 1 ustawy o podatku od towarów i usług, w myśl którego fakturę ustrukturyzowaną uznaje się za wystawioną w dniu jej przesłania do Krajowego Systemu e-Faktur.\nMinisterstwo Finansów nie zdiagnozowało także potrzeby dokonania zmian związanych z nadawaniem numerów KSeF. Nie jest planowana likwidacja obowiązku wskazywania numeru KSeF faktury w przelewie.\nNie przewiduje się również modyfikacji struktury FA(2) w zakresie pola IDWew dotyczącego modelu uprawnień wykorzystującego unikalny identyfikator wewnętrzny zakładu (oddziału) osoby prawnej bądź innej wyodrębnionej jednostki wewnętrznej podatnika.\nKwestię ewentualnego włączenia do KSeF faktur B2C chcielibyśmy omówić z przedsiębiorcami w rozpoczynanych konsultacjach publicznych."
+        },
+        {
+            "question": "Jakie instrumenty wsparcia przewiduje Ministerstwo Finansów dla przedsiębiorców w związku z wydatkami już poniesionymi na wdrożenie KSeF i do zakończenia wdrożenia, a także wydatków już poniesionych, w przypadku ewentualnej zmiany wymagań dot. funkcjonalności?",
+            "answer": "Bezpośrednie korzyści biznesowe związane z KSeF przedsiębiorcy odczują po wdrożeniu systemu. Obligatoryjne e-fakturowanie będzie miało wpływ na usprawnienie obrotu gospodarczego przez wprowadzenie jednego standardu e-faktury, zamianę dokumentów papierowych i elektronicznych (PDF) na dane cyfrowe, a także cyfryzację i automatyzację obiegu faktur pomiędzy podatnikami oraz ich księgowania. Rozwiązanie to przyczyni się nie tylko do szybszego i sprawniejszego dokumentowania transakcji, ale również do przyspieszenia realizacji płatności. Nabywca będzie miał pewność, że faktura została wystawiona przez podmiot uprawniony. Dodatkowo wystawca faktury jest pewien, że odbiorca otrzymał fakturę.\nUstrukturyzowany jednolity wzór faktury pozwoli na automatyzację procesów księgowych, co w konsekwencji przełoży na oszczędność czasu pracowników, który można wykorzystać w innych obszarach prowadzenia działalności.\nWarto podkreślić, że faktury ustrukturyzowane będą przechowywane w KSeF przez okres 10 lat, co daje realną możliwość oszczędności, związanych z brakiem obowiązku przechowywania tych dokumentów przez przedsiębiorców.\nDo instrumentów wsparcia podatników zaliczają się także udostępnione przez Ministerstwo Finansów bezpłatne narzędzia tj. Aplikacja Podatnika KSeF czy zaktualizowana e-mikrofirma. Trwają prace nad udostępnieniem aplikacji mobilnej.\nPonadto, zgodnie z obowiązującymi przepisami podatnicy mogą uwzględnić koszty wdrożenia KSeF w podatku dochodowym, a podatnicy VAT czynni mogą dokonać odliczenia podatku naliczonego w przypadku zakupów towarów i usług związanych z wdrożeniem KSeF."
+        },
+        {
+            "question": "Czy w ramach przeprowadzanego audytu, będzie badana możliwość zmiany koncepcji KSeF czy raczej będzie dotyczył on kwestii technicznych?",
+            "answer": "Audyt dotyczy w szczególności wydajności systemu. Obejmuje weryfikację rozwiązań technologicznych przyjętych dla zapewnienia odpowiedniego poziomu wydajności. Ewentualna implementacja wniosków płynących z audytu powinna pozostać neutralna dla parametrów oprogramowania zamówionego przez przedsiębiorców."
+        },
+        {
+            "question": "Czy planowane wejście w życie obligatoryjnego KSeF odbędzie się w tym samym terminie dla wszystkich podatników, czy raczej kolejne rozwiązania będą wprowadzane stopniowo w zależności od wielkości firmy? Czy w początkowym okresie wejścia w życie obligatoryjnego KSeF rozważana jest koncepcja bardziej liberalnego podejścia do niektórych z obowiązków nałożonych na podatników tj. pewna wyrozumiałość co do ewentualnych błędów, niedotrzymywania terminów, czy też mniejsza penalizacja?",
+            "answer": "Z uwagi na podnoszone przez przedsiębiorców wątpliwości, powyższe zagadnienie będzie przedmiotem szczegółowej analizy po stronie Ministerstwa Finansów. Zagadnienie to będzie omawiane w dedykowanej do tego celu grupie z udziałem osób, które zgłoszą się do jej prac."
+        },
+        {
+            "question": "Jak Ministerstwo Finansów planuje zaangażować biznes do prac nad projektem? W obliczu zapowiadanych „wzmożonych konsultacji” istotne jest wyznaczenie już na tym etapie planów konkretnych działań w tym zakresie – w tym określenie planowanego podejścia do rozwiązywania wątpliwości biznesu.",
+            "answer": "Ministerstwo Finansów zaproponuje cykl spotkań o KSeF w formie grup konsultacyjnych, do których będą mogli zgłosić się przedstawiciele różnych branż.\nMinisterstwo  przedstawi do konsultacji projekt rozwiązań w zakresie zmian ustawy wprowadzającej obowiązkowy KSeF oraz projekty aktów wykonawczych dotyczących KSeF.\nBędziemy organizować spotkania robocze dotyczące zagadnień merytorycznych jak i technicznych, podczas których będzie możliwość wymiany opinii, zgłaszania postulatów oraz uwag do wprowadzanych przez resort finansów rozwiązań."
+        },
+        {
+            "question": "Czy Ministerstwo Finansów planuje zmiany w strukturze logicznej FA(2)?",
+            "answer": "Struktura e-faktury na etapie jej projektowania była poddana szerokim konsultacjom publicznym. Uwagi zgłaszane w trakcie konsultacji zostały w dużej mierze uwzględnione.\nStruktura FA(2) oprócz elementów, których występowanie regulowane jest w art. 106a - 106q ustawy o podatku od towarów i usług, zawiera także elementy, których stosowanie jest całkowicie dobrowolne i dowolne. Uwzględnienie ich w strukturze wynika z praktyki biznesowej obserwowanej na rynku.\nBiorąc powyższe pod uwagę, Ministerstwo Finansów nie przewiduje modyfikacji struktury FA(2). Powodem przemawiający za pozostawieniem obecnej struktury są koszty po stronie przedsiębiorców związane z przeprowadzeniem już zamówionych produktów. Ponadto, taka decyzja mogłaby wydłużyć okres potrzebny do ich wdrożenia."
+        },
+        {
+            "question": "Czy Ministerstwo Finansów zakłada przygotowanie kompleksowego podręcznika dotyczącego funkcjonalności KSeF?",
+            "answer": "Kompendium wiedzy na temat Krajowego Systemu e-Faktur jest w trakcie przygotowania. Planowane jest opublikowanie podręcznika KSeF, w którym zostaną przedstawione kluczowe zagadnienia związane z obowiązkowym e-fakturowaniem. Podręcznik będzie zawierał wytyczne dotyczące między innymi nadawania uprawnień do korzystania z KSeF i uwierzytelnienia w systemie. Przedsiębiorcy będą mogli zaznajomić się z zasadami wystawiania e-faktur, ich otrzymywania oraz uzyskaniem dostępu do faktur. Opisane zostaną także nowe funkcjonalności systemu np. kody QR czy generowanie identyfikatorów zbiorczych.\nPlanowane jest także wydanie wyjaśnień odnoszących się do kwestii związanych z definicją stałego miejsca prowadzenia działalności gospodarczej, co jest kluczowe dla określenia czy dany przedsiębiorca będzie objęty obowiązkowym e-fakturowaniem.\nUdostepnienie materiałów dotyczących Krajowego Systemu e-Faktur z pewnością pomoże podatnikom przygotować się do realizacji nowych obowiązków podatkowych.\nWarto podkreślić że aktualnie udostępniona jest już broszura informacyjna dotycząca struktury logicznej FA(2). Na stronie podatki.gov.pl zamieszczone są i na bieżąco aktualizowane najczęściej zadawane pytania i odpowiedzi Pytania i odpowiedzi - KSeF (podatki.gov.pl)."
+        },
+        {
+            "question": "Czy planowane są nowe funkcjonalności techniczne w działaniu KSeF?",
+            "answer": "Zagadnienie będzie omawiane z przedsiębiorcami w cyklu zaplanowanych spotkań o KSeF."
+        },
+        {
+            "question": "Czy planowane są zmiany w zakresie rodzajów podatników oraz rodzajów transakcji objętych obowiązkowym e-fakturowaniem w KSeF?",
+            "answer": "Z uwagi na podnoszone przez przedsiębiorców wątpliwości, powyższe zagadnienie będzie przedmiotem szczegółowej analizy po stronie Ministerstwa Finansów. Zamierzamy jeszcze raz przyjrzeć się kwestii faktur konsumenckich z uwagi na zgłaszane problemy z identyfikacją takich faktur. Kwestia ta będzie omawiana w grupie roboczej dotyczącej B2C."
+        },
+        {
+            "question": "Czy będą kontynuowane spotkania informacyjne dla biznesu w ramach cyklu „Środy z KSeF”? Czy Ministerstwo Finansów planuje jakieś inne działania edukacyjne skierowane do przedsiębiorców?",
+            "answer": "Ministerstwo Finansów będzie kontynuować działania informacyjno-edukacyjne. Przesunięcie terminu wdrożenia obowiązku korzystania z KSEF, nie oznacza, że nie należy już dziś testować i przygotowywać się do pracy w tym systemie. Bezpłatne narzędzia takie jak Aplikacja Podatnika KSeF czy e-mikrofirma są do dyspozycji przedsiębiorców.\nW poprzednich miesiącach eksperci KAS chętnie dzielili się wiedzą dotyczącą KSeF w czasie webinariów, konferencji czy innych spotkań organizowanych przez inne podmioty, instytucje publiczne czy organizacje branżowe.\nMinisterstwo Finansów prowadziło i będzie prowadzić również własne działania informacyjne. Pierwsza odsłona akcji „Środy z KSeF”, cieszyła się sporym zainteresowaniem. Bezpośrednio w webinariach wzięło udział ponad 22 tys. przedsiębiorców. MF otrzymało w ich trakcie wiele pytań. Na stronie internetowej podatki.gov.pl można znaleźć najczęściej zadawane pytania wraz z odpowiedziami.\nMinisterstwo Finansów podczas spotkania, które odbyło się w dniu 2 lutego 2024 r. z przedstawicielami organizacji, które dotąd brały udział w konsultacjach w sprawie wdrożenia KSeF, ogłosiło przeprowadzenie szerokiej kampanii informacyjnej (https://www.gov.pl/web/finanse/wkrotce-zaczna-sie-konsultacje-w-sprawie-ksef).\nOd czerwca w każdym z 400 urzędów skarbowych będzie można odbyć praktyczne szkolenie z korzystania z darmowego oprogramowania do wystawiania e-faktur.\nDodatkowo, jeśli przedsiębiorca napotka jakiś problem lub będzie miał wątpliwości dotyczące funkcjonalności KSeF, będzie mógł zadzwonić na specjalną infolinię i uzyskać odpowiednie wsparcie."
+        },
+        {
+            "question": "Czy planowane jest wprowadzenie w KSeF automatycznej weryfikacji statusu kontrahenta z Wykazem Podatników VAT?",
+            "answer": "Aktualnie nie jest planowane wprowadzenie takiej funkcjonalności.\nBiorąc pod uwagę, że Wykaz Podatników VAT zawiera wyłącznie podatników zarejestrowanych do VAT jako podatnicy VAT czynni lub jako podatnicy VAT zwolnieni (brak podatników zwolnionych, którzy nie zarejestrowali się jako podatnicy VAT zwolnieni) takie podejście nie pozwoliłoby na realizację celu związanego z identyfikacją statusu wszystkich podmiotów objętych KSeF."
+        },
+        {
+            "question": "Czy MF zatrudnia osoby tylko do realizacji projektu KSeF? Jeżeli tak to jakie ponosi z tego tytułu koszty i czy ulegną one zwiększeniu w związku z przesunięciem terminu wdrożenia?",
+            "answer": "W pracach nad projektem Krajowego Systemu e-Faktur uczestniczą osoby, które pracowały w Ministerstwie jeszcze przed utworzeniem KAS posiadające wiedzę merytoryczną w zakresie podatku od towarów i usług, wiedzę techniczną oraz szerokie doświadczenie związane z rozwojem oprogramowania i narzędzi dedykowanych przedsiębiorcom. W samym Ministerstwie Finansów nie były prowadzone nabory ukierunkowane wyłącznie na prace projektowe."
+        },
+        {
+            "question": "W wielu firmach rozliczanie wydatków (np. automatyczne transakcje, zamówienia przy użyciu EDI, stacje benzynowe, gastronomia, hotele, artykuły biurowe, podróże itp.) opiera się na identyfikacji zakupów na podstawie fizycznego dokumentu. W dobie KSeF pomysłem na zaadresowanie tej potrzeby są osobne dokumenty nie będące fakturami (np. pdf ze specyfikacją zamówienia lub dokument bez nazwy “faktura”). Rozumiemy, że celem MF nie jest eliminacja takich praktyk gospodarczych uznawszy je za faktury wystawiane poza KSeF (objęte sankcją)?",
+            "answer": "Wprowadzenie obowiązkowego Krajowego Systemu e-Faktur skutkuje zmianami wyłącznie w sposobie wystawiania faktur. W związku z powyższym dotychczasowe praktyki dotyczące fakturowania powinny zostać dostosowane do założeń KSeF. Celem Ministerstwa Finansów nie jest eliminacja działań polegających na wydawaniu innych niż faktury dokumentów np. specyfikacji zamówienia. Tego typu dokumenty nie będą jednak przesyłane do KSeF."
+        },
+        {
+            "question": "Kto ponosi odpowiedzialność za błędy i czy nowe kierownictwo MF/KAS będzie wyciągać konsekwencje w stosunku do tych osób?",
+            "answer": "Ocena tej kwestii będzie możliwa dopiero po uzyskaniu przez Ministerstwo Finansów wyników zleconego audytu informatycznego."
+        },
+        {
+            "question": "Czy planowane jest wydłużenie terminu na dosłanie do KSeF faktur wystawionych w tzw. trybie offline i w trybie awaryjnym?",
+            "answer": "Nie są planowane takie zmiany. Obecne rozwiązanie zapewnia odpowiedni stopień efektywności konieczny w celu uszczelnienia systemu podatkowego."
+        },
+        {
+            "question": "W jaki sposób nadawane jest pierwotne uprawnienie w KSeF w przypadku podatnika, który jest osobą fizyczną?",
+            "answer": "Pierwotne uprawnienie o charakterze właścicielskim jest przypisane automatycznie do osoby będącej podatnikiem. Osoba taka może korzystać z systemu autoryzując się Podpisem Zaufanym lub kwalifikowanym podpisem elektronicznym. W przypadku posiadania kwalifikowanego podpisu elektronicznego, który nie zawiera NIP i PESEL, istnieje możliwość zgłoszenia odcisku palca podpisu za pośrednictwem zawiadomienia ZAW-FA."
+        },
+        {
+            "question": "W jaki sposób jest nadawane pierwotne uprawnienie w KSeF w przypadku podatnika niebędącego osobą fizyczną?",
+            "answer": "Podatnicy niebędący osobami fizycznymi posiadający elektroniczną pieczęć kwalifikowaną zawierającą NIP mogą korzystać z KSeF na podstawie pierwotnych uprawnień właścicielskich bez zgłaszania w urzędzie skarbowym. W pozostałych przypadkach podatnik musi za pośrednictwem zawiadomienia ZAW-FA wskazać osobę fizyczną uprawnioną do korzystania z KSeF."
+        },
+        {
+            "question": "Jak technicznie nadać uprawnienie innej osobie do wystawiania faktury w imieniu podatnika/firmy?",
+            "answer": "Aby umożliwić innym osobom wystawianie faktur w imieniu podatnika lub firmy, należy udzielić im dedykowanego uprawnienia do wystawiania faktur. Można to zrobić za pomocą programów komercyjnych z API lub webowej aplikacji KSeF dla podatników przygotowanej przez Ministerstwo Finansów."
+        },
+        {
+            "question": "Czy w KSeF przewidziana jest procedura samofakturowania?",
+            "answer": "Tak, w KSeF przewidziana jest procedura samofakturowania. Sprzedawca musi nadać nabywcy uprawnienie do samofakturowania, co umożliwia nabywcy i upoważnionym przez niego podmiotom wystawianie faktur w KSeF."
+        },
+        {
+            "question": "Chciałabym poprzez API KSeF nadać osobie fizycznej uprawnienie do wystawiania faktur w moim imieniu. Czy osoba uprawniona musi założyć w związku z tym konto w KSeF? W jaki sposób ma to zrobić?",
+            "answer": "Osoba fizyczna nie musi zakładać konta w KSeF, aby móc wystawiać faktury w imieniu podatnika. Wystarczy, że osoba taka zostanie upoważniona przez podatnika, a następnie uwierzytelnia się w systemie jedną z metod przewidzianych w rozporządzeniu Ministra Finansów w sprawie korzystania z Krajowego Systemu e-Faktur."
+        },
+        {
+            "question": "Czy konta w KSeF są zakładane tylko na osoby fizyczne? Czy mogą być również konta zakładane na firmy?",
+            "answer": "Konta w KSeF mogą być zakładane zarówno na osoby fizyczne, jak i na firmy. Podmioty niebędące osobami fizycznymi mogą uwierzytelniać się w systemie za pomocą pieczęci kwalifikowanej lub zgłosić osobę fizyczną do korzystania z KSeF za pomocą zawiadomienia ZAW-FA."
+        },
+        {
+            "question": "Czy jeśli moje faktury sprzedażowe wystawia w moim imieniu biuro rachunkowe, to czy będę musiał każdorazowo upoważniać do wystawiania faktur poszczególnych pracowników tego biura rachunkowego?",
+            "answer": "Jeśli biuro rachunkowe wystawia faktury w Twoim imieniu, możesz upoważnić pracowników tego biura do wystawiania faktur. Pracownicy biura będą mogli wystawiać faktury w Twoim imieniu."
+        },
+        {
+            "question": "Czy mogę wskazywać jako osoby uprawnione do wystawiania faktur w moim imieniu osoby spoza mojej firmy np. bezpośrednio pracowników biura rachunkowego, czy muszę wskazywać to biuro?",
+            "answer": "Masz możliwość wyboru pomiędzy wskazaniem konkretnych osób fizycznych spoza Twojej firmy a wskazaniem całego biura rachunkowego jako podmiotu uprawnionego do wystawiania faktur w Twoim imieniu."
+        },
+        {
+            "question": "Czy w przypadku podatników niebędących osobami fizycznymi jest możliwość zgłaszania więcej niż jednej osoby fizycznej o najszerszym zakresie uprawnień umożliwiającym nadawanie dalszych uprawnień kolejnym osobom za pośrednictwem ZAW-FA?",
+            "answer": "Nie, można zgłosić tylko jedną osobę fizyczną za pomocą zawiadomienia ZAW-FA. Kolejne osoby o najszerszym zakresie uprawnień mogą być zgłaszane drogą elektroniczną przez osobę uprawnioną."
+        },
+        {
+            "question": "Co w przypadku gdy podatnik niebędący osobą fizyczną z różnych przyczyn w sposób nagły zakończy współpracę z osobą fizyczną zgłoszoną za pomocą zawiadomienia ZAW-FA i nie zgłoszono wcześniej innych osób o najszerszym zakresie uprawnień umożliwiającym nadawanie dalszych uprawnień kolejnym osobom?",
+            "answer": "W takiej sytuacji podatnik może zgłosić kolejną osobę, która będzie miała najszerszy zakres uprawnień na miejsce dotychczasowej osoby."
+        },
+        {
+            "question": "W jakich sytuacjach należy ponownie zgłaszać uprawnienia nadane w powiązaniu z tzw. odciskiem palca podpisu?",
+            "answer": "Uprawnienia nadane w powiązaniu z tzw. odciskiem palca podpisu należy zgłaszać ponownie w przypadku przedłużenia ważności podpisu lub uzyskania nowego podpisu, nawet jeśli jest to ta sama osoba, która go używa."
+        },
+        {
+            "question": "Czy trzeba dokonywać aktualizacji zgłaszanych uprawnień w przypadku gdy dana osoba uprawniona przedłuża ważności podpisu lub uzyskuje inny podpis kwalifikowany, ale podpis cały czas zawiera jeden z atrybutów NIP lub PESEL?",
+            "answer": "Nie, nie trzeba dokonywać aktualizacji zgłaszanych uprawnień w takim przypadku, jeśli podpis cały czas zawiera jeden z atrybutów NIP lub PESEL."
+        },
+        {
+            "question": "Czy przewidziana jest jakaś forma aktualizacji danych zgłoszonych w ZAW-FA w przypadku ich późniejszej zmiany?",
+            "answer": "Nie, zgłoszone dane nie wymagają aktualizacji, jeśli NIP i podmiot zgłaszający się nie ulegają zmianie."
+        },
+        {
+            "question": "Od jakiego momentu nadane osobie uprawnienia umożliwiają jej uwierzytelnienie w systemie? Co w przypadku nadawania zawiadomienia ZAW-FA drogą pocztową?",
+            "answer": "Uprawnienia stają się skuteczne od momentu ich wprowadzenia do systemu. W przypadku zgłoszeń elektronicznych uprawnienia są natychmiastowe. Natomiast w przypadku wysyłki zawiadomienia ZAW-FA drogą pocztową, należy uwzględnić konieczne opóźnienie związane z doręczeniem przesyłki do urzędu skarbowego."
+        },
+        {
+            "question": "Co powinien zrobić komornik oraz organ egzekucyjny aby korzystać z KSeF?",
+            "answer": "Komornik może korzystać z systemu bez zgłaszania się. Jego status jako komornika jest automatycznie odnotowywany na podstawie dostępnych rejestrów. Organ egzekucyjny musi złożyć zawiadomienie o nadaniu lub odebraniu uprawnień do właściwego naczelnika urzędu skarbowego."
+        },
+        {
+            "question": "Czy autoryzacja musi być per osoba czy może być per firma?",
+            "answer": "Z KSeF korzystać mogą zarówno osoby fizyczne jak i podmioty inne niż osoby fizyczne. Aby korzystać z KSeF niezbędne jest uwierzytelnienie się podatnika w systemie. Podmiot niebędący osobą fizyczną może uwierzytelnić się w systemie pieczęcią kwalifikowaną. W innym przypadku konieczne jest złożenie np. przez spółkę zawiadomienia ZAW-FA, w którym podmiot wyznaczy określoną osobę fizyczną do korzystania z KSeF (w tym do nadawania uprawnień, odbierania uprawnień, wystawiania faktur w imieniu podmiotu oraz dostępu do faktur). Natomiast, w przypadku osób fizycznych (również w przypadku uwierzytelnienia się osoby fizycznej w ramach podmiotu) autoryzacja jest możliwa za pomocą kwalifikowanego podpisu elektronicznego, podpisu zaufanego lub za pośrednictwem API za pomocą wygenerowano wcześniej tokenu."
+        },
+        {
+            "question": "Co z podmiotami zagranicznymi, którzy działają w Polsce za pośrednictwem pełnomocników i nie mają żadnych podpisów elektronicznych? Czy pełnomocnik będzie mógł działać w imieniu podatnika w KSeF i udzielać dalszych pełnomocnictw?",
+            "answer": "Podmiot zagraniczny posiadający polski identyfikator NIP może działać za pośrednictwem pełnomocnika. W takim przypadku konieczne jest złożenie przez ten podmiot, zawiadomienia ZAW-FA, w którym podmiot wyznaczy określoną osobę fizyczną do korzystania z KSeF (w tym do nadawania uprawnień, odbierania uprawnień, wystawiania faktur w imieniu podmiotu oraz dostępu do faktur)."
+        },
+        {
+            "question": "Czy w ZAW-FA mogę upoważnić dwóch członków zarządu czy tylko jednego?",
+            "answer": "W ZAW-FA można upoważnić tylko jedną osobę. Może, ale nie musi to być członek zarządu. Osoba wyznaczona w ZAW-FA może nadać kolejnym osobom uprawnienia elektronicznie."
+        },
+        {
+            "question": "Czy wspólnik sp.jawnej może się uwierzytelnić poprzez profil zaufany czy druk ZAW-FA?",
+            "answer": "Spółka jawna (jako podatnik niebędący osobą fizyczną) może uwierzytelnić się w KSeF pieczęcią kwalifikowaną. Jeżeli spółka nie posiada pieczęci kwalifikowanej to może złożyć ZAW-FA. Jeśli wspólnik spółki jawnej zostanie wyznaczony w ZAW-FA, to będzie mógł się uwierzytelnić w kontekście spółki np. swoim profilem zaufanym."
+        },
+        {
+            "question": "Co z nadawaniem uprawnień w przypadku sp z o.o.? Czy wystarczy, że w przypadku jednoosobowego zarządu prezes przez ZAW-FA nada wszelkie uprawnienia do KSeF dla dyrektora finansowego, a potem dyrektor już w samym systemie KSeF może nadawać dalsze uprawnienia np. dla księgowych do wystawiania faktur? Czy już sam prezes musi nadać przez ZAW-FA uprawnienia księgowym?",
+            "answer": "Spółka z o.o. (jako podatnik niebędący osobą fizyczną) może uwierzytelnić się w KSeF pieczęcią kwalifikowaną. Jeżeli spółka nie posiada pieczęci kwalifikowanej, to będzie mogła złożyć ZAW-FA. ZAW-FA podpisuje osoba reprezentująca spółkę. W zawiadomieniu wskazuje się osobę uprawnioną np. dyrektora finansowego. Osoba wyznaczona w ZAW-FA będzie mogła także nadać dalsze uprawnienia elektronicznie w systemie (np. do wystawiania faktur) kolejnym osobom fizycznym np. księgowym."
+        },
+        {
+            "question": "Czy FV wystawiona w KSeF będzie widoczna dla osoby uprawnionej/biura rachunkowego od razu, czy dopiero po zatwierdzeniu jej przez nabywcę?",
+            "answer": "Faktura jest widoczna w momencie jej przetworzenia przez system KSeF. Dzieję się to co do zasady automatycznie bez opóźnień."
+        },
+        {
+            "question": "Generujemy token i wgrywamy go do programu komercyjnego. Czy możemy wysyłać i pobierać faktury z KSeF bez dodatkowych podpisów (Profil Zaufany)?",
+            "answer": "TAK, pod warunkiem że generując token posiadamy właściwe uprawnienia np. do wysyłania faktur w KSeF i w ramach tych uprawnień ten token wygenerujemy."
+        },
+        {
+            "question": "Czy istnieje możliwość wykorzystania Podpisu Zaufanego we własnej aplikacji, żeby przedsiębiorca nie musiał generować samodzielnie tokenu w aplikacji Ministerstwa Finansów?",
+            "answer": "Autoryzacja użytkownika wymagana jest niezależnie czy wykorzystuje się narzędzia komercyjne, czy aplikację udostępnioną przez Ministerstwo Finansów. Jedną z metod uwierzytelnienia, w celu korzystania z Krajowego Systemu e-Faktur, jest Podpis Zaufany."
+        },
+        {
+            "question": "Czy wysyłając faktury lub paczki faktur wymagane jest posiadanie podpisu?",
+            "answer": "Wysyłkę można dokonać w ramach sesji interaktywnej lub wsadowej (paczki faktur). Wysyłka faktury bądź paczki faktur zostanie dokonana przez podatnika lub osobę uprawnioną, po prawidłowo zakończonym procesie autoryzacji tego użytkownika np. za pomocą kwalifikowanego podpisu elektronicznego."
+        },
+        {
+            "question": "Prowadzę jednoosobową działalność gospodarczą i jednocześnie jestem członkiem rady nadzorczej. Mój PESEL jest widoczny w ogólnodostępnych rejestrach (np. KRS). Czy w związku z tym nie będę narażony na nieautoryzowane próby uwierzytelnienia się w systemie KSeF, w moim imieniu przez inne podmioty?",
+            "answer": "Nie, ponieważ wymagane jest uwierzytelnienie w sposób określony w § 5 rozporządzenia Ministra Finansów w sprawie korzystania z Krajowego Systemu e-Faktur tj.:\n1) kwalifikowanym podpisem elektronicznym albo 2) kwalifikowaną pieczęcią elektroniczną, albo 3) podpisem zaufanym, albo 4) wygenerowanym przez Krajowy System e-Faktur, po uwierzytelnieniu się podatnika lub podmiotu uprawnionego w sposób, o którym mowa w pkt 1–3, ciągiem znaków alfanumerycznych, z wyłączeniem znaków interpunkcyjnych, przypisanym do podatnika lub podmiotu uprawnionego i jego uprawnień – oraz weryfikacji posiadanych uprawnień. Oznacza to, że wskazanie wyłącznie numeru PESEL danej osoby fizycznej nie pozwoli na uwierzytelnienie się w systemie."
+        },
+        {
+            "question": "Jakich przypadków dotyczy zgłaszanie tzw. odcisku palca podpisu kwalifikowanego? W jaki sposób jest to zgłaszane?",
+            "answer": "Dotyczy to trzech przypadków, które łączy wspólna cecha, czyli jednoczesny brak w elektronicznym podpisie kwalifikowanym atrybutów w postaci NIP i PESEL: a) Zgłoszenie podpisu kwalifikowanego, którego właścicielem jest sam podatnik będący osobą fizyczną. Dokonywane wyłącznie za pośrednictwem ZAW-FA. b) Zgłoszenie podpisu kwalifikowanego osoby uprawnionej przez podatnika, posiadającej PESEL i/lub NIP ale posługującej się podpisem niezawierającym tych atrybutów. Dokonywane za pośrednictwem ZAW-FA w przypadku zgłaszania pierwszej osoby o najszerszych uprawnieniach lub drogą elektroniczną w przypadku kolejnych osób. c) Zgłoszenie podpisu kwalifikowanego osoby uprawnionej przez podatnika, nieposiadającej NIP i PESEL. Dokonywane za pośrednictwem ZAW-FA w przypadku zgłaszania pierwszej osoby o najszerszych uprawnieniach lub drogą elektroniczną w przypadku kolejnych osób. Procedura ta nie jest konieczna gdy podpis kwalifikowany zawiera jeden z tych atrybutów."
+        },
+        {
+            "question": "Czy możliwe będzie wykonywanie operacji administracyjnych tj. np. wyznaczenie osób fakturujących oraz wygenerowanie tokenów autoryzacyjnych poprzez aplikację dostarczoną przez Ministerstwo Finansów? Innymi słowy czy aplikacja systemu ERP może autoryzować się wyłącznie tokenem?",
+            "answer": "Tak"
+        },
+        {
+            "question": "Czy trzeba dokonywać aktualizacji zgłaszanych uprawnień w przypadku gdy dana osoba uprawniona przedłuża ważności podpisu lub uzyskuje inny podpis kwalifikowany, ale podpis cały czas zawiera jeden z atrybutów NIP lub PESEL?",
+            "answer": "Nie. W takich sytuacjach nie jest wymagana aktualizacja uprawnień."
+        },
+        {
+            "question": "W jakich sytuacjach należy ponownie zgłaszać uprawnienia nadane w powiązaniu z tzw. odciskiem palca podpisu?",
+            "answer": "Uprawnienia nadane w powiązaniu z tzw. odciskiem palca podpisu należy zgłaszać ponownie w przypadku przedłużenia ważności podpisu lub uzyskania nowego podpisu, mimo, że posługuje się nim cały czas ta sama osoba."
+        },
+        {
+            "question": "Czy tokeny są wieczne, czy wygasają?",
+            "answer": "KSeF nie określa czasu w jakim token jest ważny. Wygenerowany token pozostaje ważny do czasu jego unieważnienia przez użytkownika lub do dnia odebrania uprawnień użytkownikowi."
+        },
+        {
+            "question": "Czy autoryzacja musi być per osoba czy może być per firma?",
+            "answer": "Z KSeF korzystać mogą zarówno osoby fizyczne jak i podmioty inne niż osoby fizyczne. Aby korzystać z KSeF niezbędne jest uwierzytelnienie się podatnika w systemie.\nPodmiot niebędący osobą fizyczną może uwierzytelnić się w systemie pieczęcią kwalifikowaną. W innym przypadku konieczne jest złożenie np. przez spółkę zawiadomienia ZAW-FA, w którym podmiot wyznaczy określoną osobę fizyczną do korzystania z KSeF (w tym do nadawania uprawnień, odbierania uprawnień, wystawiania faktur w imieniu podmiotu oraz dostępu do faktur). Natomiast, w przypadku osób fizycznych (również w przypadku uwierzytelnienia się osoby fizycznej w ramach podmiotu) autoryzacja jest możliwa za pomocą kwalifikowanego podpisu elektronicznego, podpisu zaufanego lub za pośrednictwem API za pomocą wygenerowano wcześniej tokenu."
+        },
+        {
+            "question": "Czy istnieje możliwość wykorzystania Profilu Zaufanego w swojej aplikacji, żeby przedsiębiorca nie musiał generować samodzielnie tokenu w aplikacji Ministerstwa Finansów?",
+            "answer": "Niezależnie od wykorzystywanego systemu komercyjnego czy aplikacji udostępnionej przez Ministerstwo Finansów wymagana jest autoryzacja użytkownika. Jedną z metod uwierzytelnienia w celu korzystania z KSeF jest podpis zaufany."
+        },
+        {
+            "question": "Czy jeśli spółka z o.o. posiada firmowe oprogramowanie księgowe i tam jest możliwość wysyłki faktur do KSeF, to mimo tego trzeba się gdzieś logować?",
+            "answer": "Autoryzacja będzie w takim przypadku odbywać się wewnątrz wykorzystywanej aplikacji zintegrowanej z KSeF. Reguły autoryzacji są takie same niezależnie z jakiego programu się korzysta.\nW przypadku podatników niebędących osobami fizycznymi, nieposiadającymi elektronicznej pieczęci kwalifikowanej, w celu dokonania pierwszej autoryzacji w systemie koniecznie jest złożenie zgłoszenia ZAW-FA do urzędu skarbowego."
+        },
+        {
+            "question": "Czy system będzie przyjmował faktury bez elementów nieobowiązkowych (inne niż z ustawy o VAT) ale wynikających ze struktury?",
+            "answer": "Przesyłana faktura musi być zgodna ze strukturą logiczną FA(1). W przypadku, gdy faktura będzie zawierała błędy np. nie wszystkie wymagane przez strukturę pola zostaną wypełnione, faktura zostanie odrzucona. Należy podkreślić, że w strukturze istnieją pola, które stają się obowiązkowe w momencie wypełniania węzłów lub sekwencji o charakterze fakultatywnym, w których pola te są zawarte mimo, że dotyczą elementów których nie wymaga ustawa o VAT. W tego typu sytuacjach fakultatywność osiągana jest na poziomie węzła lub sekwencji. Zatem w przypadku wypełniania fakultatywnych węzłów zawartych w fakturze, pola obowiązkowe w tym węźle muszą zostać wypełnione dla skuteczności wysyłki pliku faktury."
+        },
+        {
+            "question": "Co to jest uniwersalny unikalny numer wiersza faktury (UU_ID)? Jak bardzo ma być on unikalny? Czy na fakturze korygującej ten numer ma być taki sam jak na korygowanej?",
+            "answer": "Wykorzystanie pola UU_ID lub UU_IDZ jest dobrowolne i umożliwia nadawanie wierszom faktury unikalnych numerów, które może ułatwiać ich identyfikację w wykorzystywanych systemach księgowych oraz pozwala na jednoznaczne wiązanie numerów wierszy faktury pierwotnej z numerami wierszy w fakturach korygujących. Pola przyjmują do 50 znaków. Pożądaną unikalnością jest unikalność w skali danego podatnika lub danego systemu wykorzystywanego przez danego podatnika."
+        },
+        {
+            "question": "Czy dokument musi zostać wysłany do KSeF w dniu wystawienia (jeśli data wystawienia dokumentu w pliku ma być tożsama z datą bieżącą)? Nie ma możliwości wysłania np. następnego dnia?",
+            "answer": "Dokument może zostać wysłany kolejnego dnia, przy zachowaniu ustawowo określonych terminów dotyczących wystawiania faktur. Wskazanie w polu P_1 konkretnej daty nie obliguje podatnika do wysłania w tym dniu faktury do KSeF."
+        },
+        {
+            "question": "Jak się ma data i czas wytworzenia dokumentu e-faktury do pola data wystawienia (P_1) z elementu <Fa> ?",
+            "answer": "Data podana w polu P_1 to wskazana przez wystawcę faktury data jej wystawienia. Natomiast pole DataWytworzeniaFa ma jedynie charakter techniczny, to generowana przez system data i czas wytworzenia faktury."
+        },
+        {
+            "question": "Posiadam w systemie finansowo-księgowym więcej informacji niż chciałbym prezentować na fakturze, czy pola oznaczone w schemie xsd jako nieobligatoryjne mogą pozostać niewypełnione?",
+            "answer": "Obligatoryjny charakter danego pola wynika w szczególności z treści obowiązujących przepisów. Struktura logiczna e-Faktury oprócz elementów, których występowanie regulowane jest art. 106a - 106q ustawy o VAT, zawiera także elementy, których stosowanie jest całkowicie dobrowolne i dowolne. Uwzględnienie ich w strukturze wynika z praktyki biznesowej obserwowanej na rynku. To tzw. dodatkowe elementy faktury, które nie wynikają z przepisów VAT, a których stosowanie w fakturze nie jest zabronione. Pola te mogą pozostać niewypełnione, nawet w przypadku posiadania takich danych."
+        },
+        {
+            "question": "Struktura logiczna e-Faktury zawiera szereg nowych pól, których nie było do tej pory w strukturach JPK_FA. Czy to oznacza, że rozszerzono zakres danych wymaganych w fakturach?",
+            "answer": "Struktura logiczna e-Faktury oprócz elementów, których występowanie regulowane jest art. 106a - 106q ustawy o VAT, zawiera także elementy, których stosowanie jest całkowicie dobrowolne i dowolne. Uwzględnienie ich w strukturze wynika z praktyki biznesowej obserwowanej na rynku, w tym na skutek uwag zgłaszanych w trakcie konsultacji społecznych struktury. To tzw. dodatkowe elementy faktury, które nie wynikają z przepisów VAT, a których stosowanie w fakturze nie jest zabronione. Przepisy wprowadzające KSeF nie nakładają zatem nowych obowiązków co do zawartości faktury."
+        },
+        {
+            "question": "Faktura została przesłana do KSeF i został jej nadany numer identyfikujący w systemie. Sprzedawca chciałby dodatkowo przesłać nabywcy wydruk tej faktury. Czy na wydruku należy zawrzeć numer KSeF?",
+            "answer": "W strukturze FA(1) nie jest przewidziane pole zawierające numer KSeF faktury ustrukturyzowanej. Nie ma konieczności umieszczania numeru identyfikującego fakturę w KSeF na wydruku faktury."
+        },
+        {
+            "question": "Ile faktur korygujących można wystawić w KSeF do jednej faktury sprzedaży?",
+            "answer": "KSeF nie przewiduje ograniczeń pod kątem liczby faktur korygujących wystawionych do jednej faktury sprzedaży."
+        },
+        {
+            "question": "Jakich sytuacji dotyczą pola KursUmowny, WalutaUmowna?",
+            "answer": "Pola KursUmowny i WalutaUmowna dotyczą przypadków gdy faktura wystawiona jest w złotówkach, co oznacza, że określone w art. 106e ust. 1 – 10 ustawy o VAT kwoty w fakturze wyrażone są w złotych, względnie faktura jest tzw. fakturą dwuwalutową, gdzie wszystkie te kwoty są wyrażone jednocześnie w złotówkach i walucie obcej, a strony transakcji chcą w fakturze zawrzeć informację o kursie waluty w oparciu, o który dokonano takiego umownego przeliczenia.\nJest to sytuacja odmienna od przypadku gdy kwoty w fakturze określone są wyłącznie w walucie obcej i jedynie kwota podatku przeliczona jest na złotówki zgodnie z art. 106e ust. 11 ustawy o VAT. Wówczas wypełniane są pola KodWaluty i KursWaluty."
+        },
+        {
+            "question": "Czy w fakturze przesyłanej do KSeF należy wypełnić pole P_1 (data wystawienia), skoro fakturę ustrukturyzowaną uznaje się za wystawioną w dniu jej przesłania?",
+            "answer": "Pole P_1 dotyczące daty wystawienia jest polem obowiązkowym, które musi zostać wypełnione aby faktura mogła być przyjęta przez KSeF.\nFaktura będzie uznana za wystawioną w dniu jej przesłania do KSeF zgodnie z art. 106na ust. 1 ustawy o VAT, czyli w momencie, w którym trafi do systemu niezależnie od późniejszego momentu jej przetworzenia.\nInformacja o dacie przesłania będzie znajdowała się w UPO. Data ta jest zawarta również w numerze nadanym przez KSeF.\nW przypadku gdy data wskazana w polu P_1 jest inna niż data przesłania faktury nie zostanie odrzucona przez KSeF"
+        },
+        {
+            "question": "Jak i czy przesłać korektę błędnego NIP-u nabywcy? Jak rozumieć opis dla pola Podmiot2K – „Korekcie nie podlegają błędne numery identyfikujące nabywcę oraz dodatkowego nabywcę”?",
+            "answer": "W przypadku przesłania do systemu KSeF faktury z błędnym NIP nabywcy, w celu skorygowania zaistniałej sytuacji, należy przesłać fakturę korygującą 'do zera' z tym błędnym NIP nabywcy i dodatkowo przesłać odrębną fakturę (pierwotną) z prawidłowym numerem NIP nabywcy.\nWynika to z uwarunkowań systemowych. Faktura z błędnym NIP nabywcy zostanie po przetworzeniu udostępniona podmiotowi o takim numerze NIP.\nZatem z przytoczonego opisu wynika, że w takich przypadkach nie należy wystawiać faktury korygującej błędny numer NIP na inny prawidłowy, gdyż w KSeF nie wystąpi sytuacja, że fakturę odebrał podmiot będący rzeczywistą stroną transakcji, a jedynie numer NIP podany w fakturze był błędny."
+        },
+        {
+            "question": "Jak powinna wyglądać korekta, jeżeli chcemy skorygować informacje niewpływające na wartość korekty, np. data sprzedaży, FP, MPP, TP, GTU itp. – czy to należy zrobić standardową korektą?",
+            "answer": "W przedstawionej sytuacji w KSeF można wystawić fakturę korygującą. W przypadku korekt niewpływających na wartość podstawy opodatkowania i kwotę podatku (np. data sprzedaży, oznaczenie FP, TP, adnotacja MPP, symbole GTU) w fakturze korygującej należy wskazać prawidłową treść korygowanych pozycji.\nNadal istnieje również możliwość wystawienia w tym zakresie noty korygującej przez nabywcę (poza KSeF)."
+        },
+        {
+            "question": "Czy struktura logiczna FA(1) będzie przewidywała pole do swobodnego wykorzystania w korespondencji do nabywcy?",
+            "answer": "Nie. Natomiast, jest możliwość zamieszczania w fakturze dodatkowych informacji w polach:\n- DodatkowyOpis – pole rezerwowe przeznaczone dla wykazywania dodatkowych informacji na fakturze, w tym wymaganych przepisami prawa, dla których nie przewidziano innych pól/elementów,\n- DodatkoweInfo- pole przeznaczone do wpisania przez sprzedawcę dodatkowych danych, które nie zostały uwzględnione w elementach struktury i nie są wymagane przepisami, a które mogą znaleźć się na fakturze (pole znajdujące się na poziomie wiersza faktury),\n- StopkaFaktury- pozostałe informacje na fakturze (maks. 3500 znaków)."
+        },
+        {
+            "question": "Istnieją systemy, w których wygenerowanie numeru faktury wiąże się z faktycznym wystawieniem tej faktury z określoną datą. Nie ma możliwości zmiany daty wystawienia faktury, jeśli faktura nie zostanie przesłana do systemu w tym samym dniu. Tym samym data wystawienia wskazana w polu P_1 będzie inna niż data faktycznej wysyłki do KSeF. Jak rozwiązać powyższy problem?",
+            "answer": "Okoliczność, iż w polu P_1 wskazana jest inna data niż data przesłania faktury do KSeF nie spowoduje odrzucenia faktury przez system. W tym przypadku, zgodnie z art. 106na ust. 1 ustawy o VAT przyjmuje się, że faktura została wystawiona w dniu przesłania jej do KSeF, pomimo że w polu P_1 wskazano inną datę. Powyższe należy uwzględnić w systemach księgowych w przypadkach, w których data wystawienia faktury ma wpływ na datę ujęcia zdarzenia w ewidencji."
+        },
+        {
+            "question": "Struktura logiczna FA(1) zawiera pole dobrowolne StatusInfoPodatnika. Czy informacja np. o tym, że sprzedawca znajduje się stanie likwidacji powinna być przechowywana i odkładana w systemie finansowo-księgowym nabywcy, który otrzymał taką fakturę, czy można ją pominąć?",
+            "answer": "Faktura ustrukturyzowana, którą pobierze nabywca ze swojego systemu finansowo-księgowego (za pośrednictwem API) zawiera identyczną treść w porównaniu do faktury przesłanej do KSeF przez sprzedawcę w formacie xml. Przepisy wprowadzające KseF nie przewidują nowych, dodatkowych obowiązków ewidencyjnych po stronie nabywcy."
+        },
+        {
+            "question": "Jak będą wyglądały faktury wystawiane w walucie obcej dla kontrahentów polskich?",
+            "answer": "W takiej fakturze kwoty określone są wyłącznie w walucie obcej i jedynie kwota podatku w polu P_14_xW przeliczona jest na złotówki zgodnie z art. 106e ust. 11 ustawy o VAT. Wówczas oprócz pola KodWaluty wypełniane jest pole KursWaluty, względnie pole KursWalutyZ."
+        },
+        {
+            "question": "Czy jest dostępna lista pól obowiązkowych i nieobowiązkowych w strukturze logicznej e-Faktury FA(1)?",
+            "answer": "Całkowicie dobrowolnymi węzłami są węzły Rozliczenie, Płatnosc, WarunkiTransakcji oraz Stopka. Przy czym wypełniając węzły dobrowolne, może zachodzić konieczność wypełnienia pól obowiązkowych zawartych w tych węzłach. Węzeł Zamowienie dotyczy wyłącznie faktur zaliczkowych i ich korekt. W przypadku takich faktur nie wypełnia się węzła FaWiersze. Pozostałe pola wypełniane są w zależności od wymogów przewidzianych w ustawie dla danego dokumentowanego fakturą przypadku."
+        },
+        {
+            "question": "Czy istnieje możliwości dołączania do e-Faktury załączników, np. protokołów odbioru?",
+            "answer": "Nie jest możliwe dołączanie do faktur ustrukturyzowanych załączników. Natomiast istnieje możliwość zawarcia w treści faktury stosownego linka do takiej dokumentacji. Dodatkowe informacje można wpisać w polach DodatkowyOpis, DodatkoweInfo lub ewentualnie w stopce faktury. Załączniki mogą być również przekazywane w sposób odrębny poza KSeF."
+        },
+        {
+            "question": "Czy system będzie przyjmował faktury bez elementów nieobowiązkowych (inne niż z ustawy o VAT) ale wynikających ze struktury?",
+            "answer": "Przesyłana faktura musi być zgodna ze strukturą logiczną FA(1). W przypadku, gdy faktura będzie zawierała błędy np. nie wszystkie wymagane przez strukturę pola zostaną wypełnione, faktura zostanie odrzucona. Należy podkreślić, że w strukturze istnieją pola, które stają się obowiązkowe w momencie wypełniania węzłów lub sekwencji o charakterze fakultatywnym, w których pola te są zawarte mimo, że dotyczą elementów których nie wymaga ustawa o VAT. W tego typu sytuacjach fakultatywność osiągana jest na poziomie węzła lub sekwencji. Zatem w przypadku wypełniania fakultatywnych węzłów zawartych w fakturze, pola obowiązkowe w tym węźle muszą zostać wypełnione dla skuteczności wysyłki pliku faktury."
+        },
+        {
+            "question": "Co się stanie jeśli wystawca prześle fakturę z błędami rachunkowymi - czyli nie bilansującą się?",
+            "answer": "Faktura zostanie przyjęta do KSeF, system nie weryfikuje błędów rachunkowych zawartych w fakturze. W przypadku wystąpienia takich błędów konieczne jest wystawienie faktury korygującej."
+        },
+        {
+            "question": "Czy w przypadku obowiązkowego KSeF wymagana będzie akceptacja odbiorcy faktury?",
+            "answer": "Jeśli KSeF będzie obowiązkowy zakłada się, że akceptacja odbiorcy faktury nie będzie wymagana."
+        },
+        {
+            "question": "W jaki sposób przekazać nabywcy fakturę w przypadku, o którym mowa w art. 106g ust. 3b ustawy o VAT, gdy sprzedawca z uwagi na brak akceptacji nabywcy przekazuje poza KSeF fakturę, którą wprowadził do systemu?",
+            "answer": "Przepisy ustawy o VAT nie ingerują w tę kwestię. Istotne jest aby dane przekazane nabywcy były zgodne z danymi wprowadzonymi do KSeF, tak aby obie strony transakcji posługiwały się dokumentem o tożsamej zawartości pod względem merytorycznym. Faktura taka może mieć tradycyjną postać papierową lub elektroniczną jeśli nabywca wyraził zgodę na otrzymywanie faktur elektronicznych, mimo że nie wyraził zgody na otrzymywanie faktur w KSeF."
+        },
+        {
+            "question": "Co się dzieje w przypadku gdy wysłana faktura do KSeF jest odrzucona, czy taką fakturę poprawiamy i wysyłamy ponownie ? Czy fakturę, która została odrzucona w KSeF można anulować lub wystawić korektę?",
+            "answer": "Faktura, która została odrzucona nie jest uznawana za wystawioną, zatem nie można do niej wystawić korekty ani jej anulować. W przypadku odrzucenia faktury przez system do decyzji podatnika należy, czy będzie chciał ją poprawić i wysłać ponownie do KSeF. Odrzucenie faktury przez system może wystąpić jedynie z powodu niezgodności struktury pliku z wzorem logicznym lub z powodu wprowadzania jej do systemu przez osobę nieuprawnioną. Zachęcamy do implementacji w systemach służących do fakturowania mechanizmów sprawdzających zgodność pliku xml ze wzorem struktury logicznej przed wysyłką pliku, co w praktyce wyeliminuje opisaną w pytaniu sytuację."
+        },
+        {
+            "question": "Czy wysyłając faktury lub paczki faktur wymagane jest posiadanie podpisu?",
+            "answer": "Wysyłkę można dokonać w ramach sesji interaktywnej lub wsadowej (paczki faktur). Wysyłka faktury bądź paczki faktur zostanie dokonana przez podatnika lub osobę uprawnioną, po prawidłowo zakończonym procesie autoryzacji tego użytkownika np. za pomocą kwalifikowanego podpisu elektronicznego."
+        },
+        {
+            "question": "Czy dokument musi zostać wysłany do KSeF w dniu wystawienia (jeśli data wystawienia dokumentu w pliku ma być tożsama z datą bieżącą)? Nie ma możliwości wysłania np. następnego dnia?",
+            "answer": "Dokument może zostać wysłany kolejnego dnia, przy zachowaniu ustawowo określonych terminów dotyczących wystawiania faktur. Wskazanie w polu P_1 konkretnej daty nie obliguje podatnika do wysłania w tym dniu faktury do KSeF."
+        },
+        {
+            "question": "Czy może być więcej wskazanych odbiorców faktury np. faktor?",
+            "answer": "Tak, struktura e-Faktury pozwala na wskazywanie dodatkowych podmiotów w tym m.in. faktorów. Wszystkie wskazane podmioty będą miały dostęp do faktury w ramach KSeF."
+        },
+        {
+            "question": "Czy numer faktury nadany przez KSeF powinien być zwrotnie przechowywany w systemach księgowych? Czy istnieją jakieś formy, obowiązki związane z raportowaniem nr KSeF?",
+            "answer": "W przypadku sprzedawcy istnieje konieczność przechowywania numeru KSeF z uwagi na wymóg podawania go w ewentualnie wystawianych fakturach korygujących. W przypadku nabywcy przepisy nie zakładają takiego obowiązku jednak w celach dowodowych warto ten numer przechowywać, gdyż fakt nadania tego numeru przesądza o tym, że faktura została wystawiona. Nie przewiduje się dodatkowych obowiązków związanych z raportowaniem numerów KSeF."
+        },
+        {
+            "question": "Czy KSeF pozwoli na odrzucenie faktury w przypadku błędnie wystawionej faktury przez podatnika np. na niewłaściwego nabywcę?",
+            "answer": "Nie, w takim wypadku wystawca faktury będzie zobligowany do wystawienia korekty faktury."
+        },
+        {
+            "question": "Czy będzie możliwość masowego pobierania faktur w postaci plików xml oraz PDF poprzez API?",
+            "answer": "Tak, jest przewidziana możliwość masowego pobierania faktur, ale wyłącznie w postaci XML."
+        },
+        {
+            "question": "Faktura została przesłana do KSeF i został jej nadany numer identyfikujący w systemie. Sprzedawca chciałby dodatkowo przesłać nabywcy wydruk tej faktury. Czy na wydruku należy zawrzeć numer KSeF?",
+            "answer": "W strukturze FA(1) nie jest przewidziane pole zawierające numer KSeF faktury ustrukturyzowanej. Nie ma konieczności umieszczania numeru identyfikującego fakturę w KSeF na wydruku faktury."
+        },
+        {
+            "question": "Czy w fakturze przesyłanej do KSeF należy wypełnić pole P_1 (data wystawienia), skoro fakturę ustrukturyzowaną uznaje się za wystawioną w dniu jej przesłania? Czy będzie mogło dojść do sytuacji, w której faktura ustrukturyzowana przesłana o 23:59 danego dnia (z perspektywy wysyłającego) zostanie uznana przez KSeF za przesłaną o 0:01 następnego dnia? Czy w sytuacji, gdy KSeF uzna fakturę ustrukturyzowaną za wystawioną (przesłaną) w innym dniu, niż data wskazana w polu P_1, faktura taka zostanie przez KSeF odrzucona?",
+            "answer": "Pole P_1 dotyczące daty wystawienia jest polem obowiązkowym, które musi zostać wypełnione aby faktura mogła być przyjęta przez KSeF. Faktura będzie uznana za wystawioną w dniu jej przesłania do KSeF zgodnie z art. 106na ust. 1 ustawy o VAT, czyli w momencie, w którym trafi do systemu niezależnie od późniejszego momentu jej przetworzenia. Informacja o dacie przesłania będzie znajdowała się w UPO. Data ta jest zawarta również w numerze nadanym przez KSeF. W przypadku gdy data wskazana w polu P_1 jest inna niż data przesłania faktura nie zostanie odrzucona przez KSeF."
+        },
+        {
+            "question": "Jak i czy przesłać korektę błędnego NIP-u nabywcy? Jak rozumieć opis dla pola Podmiot2K – „Korekcie nie podlegają błędne numery identyfikujące nabywcę oraz dodatkowego nabywcę”?",
+            "answer": "W przypadku przesłania do systemu KSeF faktury z błędnym NIP nabywcy, w celu skorygowania zaistniałej sytuacji, należy przesłać fakturę korygującą \"do zera\" z tym błędnym NIP nabywcy i dodatkowo przesłać odrębną fakturę (pierwotną) z prawidłowym numerem NIP nabywcy. Wynika to z uwarunkowań systemowych. Faktura z błędnym NIP nabywcy zostanie po przetworzeniu udostępniona podmiotowi o takim numerze NIP."
+        },
+        {
+            "question": "Zgodnie z przepisami ustawy o VAT warunkiem uznania faktury ustrukturyzowanej za wystawioną jest nadanie fakturze numeru KSeF. Czy oznacza to, że systemy księgowe muszą wstrzymać się z wprowadzaniem faktur sprzedażowych do momentu nadania numeru KSeF?",
+            "answer": "Zgodnie z art. 106na ust. 1 ustawy o VAT faktura jest uznana za wystawioną w dniu jej przesłania do Krajowego Systemu e-Faktur. W systemach księgowych w przypadkach, w których data wystawienia faktury ma wpływ na datę ujęcia zdarzenia w ewidencji, powyższe należy uwzględnić."
+        },
+        {
+            "question": "Czy papierowa forma faktury lub PDF formalnie będą całkowicie zbędne? Będą jedynie uprzejmością sprzedawcy względem nabywcy?",
+            "answer": "Tak papierowa forma faktury będzie zbędna. Obecnie nabywca może zażądać przekazania faktury w inny sposób np. papierowo lub elektronicznie."
+        },
+        {
+            "question": "Czy w KSeF można również wystawiać faktury dla osób prywatnych?",
+            "answer": "KSeF przewiduje możliwość wystawiania faktur dla podatników (B2B) jak również na rzecz osób nieprowadzących działalności gospodarczej (B2C) oraz umożliwia dostęp do tych faktur, m.in. poprzez tzw. dostęp anonimowy."
+        },
+        {
+            "question": "Data nadania numeru KSeF to według ustawy o VAT data dostarczenia faktury do odbiorcy. Jednak kontrahent nie dał nam zgody, ale my jako wystawca chcemy korzystać z systemu. Jak to wpływa na nas jako na wystawcę faktury? Jakie ma znaczenie data wysłania i czy ma ona jakiś związek z datą wystawienia faktury (pola z nagłówka z systemu do fakturowania)",
+            "answer": "W przypadku braku zgody nabywcy na otrzymywanie faktur ustrukturyzowanych w ramach KSeF, sprzedawca może przekazać, po uprzednim wystawieniu faktury ustrukturyzowanej w KSeF, w inny sposób, np. e-mailem (PDF), pocztą (wydruk). W takiej sytuacji dla sprzedawcy wiążąca jest data przesłania faktury do KSeF, natomiast nabywca ma prawo odliczenia nie wcześniej niż otrzyma fakturę poza KSeF."
+        },
+        {
+            "question": "Czy od kontrahenta, któremu wystawiam fakturę muszę otrzymać zgodę na przesłanie faktury przez KSeF? Czy zgoda jest domniemana?",
+            "answer": "Dla wystawienia faktury w KSeF nie jest konieczna zgoda kontrahenta. Kontrahent natomiast może nie wyrazić zgody na otrzymywanie faktur w KSeF. W przypadku braku zgody na otrzymywanie faktur w KSeF przez kontrahenta, taką fakturę należy dostarczyć do odbiorcy w inny uzgodniony sposób."
+        },
+        {
+            "question": "Czy numery nadane przez KSeF do naszych faktur będą musiały być przesyłane do odbiorców, aby ci mogli sobie pobrać faktury z KSeF?",
+            "answer": "Nie, odebranie faktury przez nabywcę nie wymaga posiadania przez niego nr KSeF faktury. Wyjątkiem jest tzw. anonimowy dostęp do faktury."
+        },
+        {
+            "question": "Czy będzie możliwość automatycznego pobierania nowych faktury otrzymanych z systemu KSeF?",
+            "answer": "Automatyczne otrzymywanie nowych faktur z systemu KSeF jest możliwe. Szczegóły funkcjonalności uzależnione są od rozwiązań zaproponowanych przez dostawcę oprogramowania."
+        },
+        {
+            "question": "Proszę o informację co z fakturami wystawianymi błędnie na danego nabywcę, który ich nie akceptuje?",
+            "answer": "W przypadku wprowadzenia do systemu faktury na błędnego nabywcę (np. błędny NIP) w celu skorygowania zaistniałej sytuacji, należy wystawić fakturę korygującą do zera z tym błędnym NIP nabywcy i odrębną fakturę (pierwotną) z prawidłowym numerem NIP nabywcy. Wynika to z uwarunkowań systemowych. Faktura z błędnym NIP nabywcy zostanie po przetworzeniu udostępniona podmiotowi o takim numerze NIP (o ile podmiot taki istnieje). Zatem z przytoczonego opisu wynika, że w takich przypadkach nie należy wystawiać faktury korygującej błędny numer NIP na inny prawidłowy, gdyż w KSeF nie wystąpi sytuacja, że fakturę odebrał podmiot będący rzeczywistą stroną transakcji, a jedynie numer NIP podany w fakturze był błędny."
+        },
+        {
+            "question": "Czy po wystawieniu faktury w KSeF muszę wysłać do odbiorcy ten nr KSeF danej faktury? Czy dana faktura automatycznie pojawi się na koncie danego odbiorcy?",
+            "answer": "Nie ma konieczności wysyłania numeru KSeF e-faktury do odbiorcy, faktura będzie automatycznie dostępna w KSeF dla nabywcy. Nabywca może również uzyskać anonimowy dostęp do faktury, po wskazaniu zestawu określonych danych."
+        },
+        {
+            "question": "Czy odbiorca dostanie informację z KSeF, że jakiś podmiot wystawił dla niego fakturę?",
+            "answer": "Taka funkcjonalność nie jest zakładana, z uwagi na to, że dla podatników otrzymujących bardzo duże ilości faktur mogłoby to być utrudnieniem, a nie ułatwieniem. W celu uzyskania informacji o dostępnych fakturach program wykorzystywany przez podatnika będzie musiał „odpytywać” KSeF. Nie jest wiec wykluczone wprowadzanie takiej funkcjonalności na poziomie poszczególnych programów finansowo-księgowych. Zarówno wystawione jak i otrzymane faktury będą dostępne w narzędziu, które zostanie udostępnione przez Ministerstwo Finansów."
+        },
+        {
+            "question": "Co dokładnie jest sprawdzane przez system przed nadaniem nr KSeF?",
+            "answer": "Przed nadaniem numeru KSeF system weryfikuje poprawność semantyczną dokumentu oraz czy osoba wystawiająca fakturę posiada stosowne uprawnienie."
+        },
+        {
+            "question": "Czy KSeF umożliwia sprawdzenie, że faktura została pobrana przez nabywcę?",
+            "answer": "KSeF nie umożliwia sprawdzenia, że faktura została pobrana przez nabywcę."
+        },
+        {
+            "question": "Istnieją systemy, w których wygenerowanie numeru faktury wiąże się z faktycznym wystawieniem tej faktury z określoną datą. Nie ma możliwości zmiany daty wystawienia faktury, jeśli faktura nie zostanie przesłana do systemu w tym samym dniu. Tym samym data wystawienia wskazana w polu P_1 będzie inna niż data faktycznej wysyłki do KSeF. Jak rozwiązać powyższy problem?",
+            "answer": "Okoliczność, iż w polu P_1 wskazana jest inna data niż data przesłania faktury do KSeF nie spowoduje odrzucenia faktury przez system. W tym przypadku, zgodnie z art. 106na ust. 1 ustawy o VAT przyjmuje się, że faktura została wystawiona w dniu przesłania jej do KSeF, pomimo że w polu P_1 wskazano inną datę. Powyższe należy uwzględnić w systemach księgowych w przypadkach, w których data wystawienia faktury ma wpływ na datę ujęcia zdarzenia w ewidencji."
+        },
+        {
+            "question": "„Datą wystawienia faktury jest data przesłania jej do KSeF” - co w przypadku gdy podatnik wystawi fakturę w swoim systemie, ale przesłanie jej do KSeF będzie niemożliwe z uwagi na awarię np. z powodu aktualizacji czy awarii technicznej?",
+            "answer": "W czasie niedostępności KSeF nie będzie możliwości korzystania z systemu. Zatem faktury będą mogły być wystawiane wyłącznie w czasie dostępności systemu. W przypadku, gdy data wystawienia zawarta w fakturze (pole P_1) będzie inna niż data przesłania faktury do systemu, fakturę uznaje się za wystawioną w momencie jej przesłania zgodnie z art. 106na ust. 1 ustawy o VAT."
+        },
+        {
+            "question": "Czy faktury musimy wysyłać w tym samym dniu, w którym ją wystawiliśmy? Co w sytuacji jeżeli faktura zostanie wysłana przed północą, a data jej przyjęcia przez KSeF już będzie następnego dnia? Skoro teoretycznie data wystawienia jest datą przyjęcia przez KSeF?",
+            "answer": "Datą wystawienia faktury ustrukturyzowanej jest data przesłania faktury do KSeF, nawet jeśli w polu P_1 została wskazana inna data niż data przesłania. Jeżeli w polu P_1 podatnik wskaże np. 2024-07-01, ale do KSeF plik xml wyśle dopiero 2024-07-02 to plik nie zostanie z tego powodu odrzucony przez KSeF, ale faktura jest wystawiona z dniem 2 lipca 2024 r. Natomiast jeśli faktura zostanie przesłana do KSeF przed północą to datą wystawienia faktury w KSeF jest data rozpoczęcia przesyłania pliku (2024-07-01), nawet jeśli numer zostanie efektywnie nadany po północy (2024-07-02)."
+        },
+        {
+            "question": "Czy wersja KSeF demo i przedprodukcyjna nie wysyła faktur do KSeF tylko jest to wersja testowa, a wersja produkcyjna KSeF wysyła faktury do KSeF?",
+            "answer": "Faktury wysyłane w wersji testowej i przedprodukcyjnej (Demo) trafiają do środowisk, które z założenia nie są środowiskami wywołującymi skutki prawne. Należy jednak pamiętać, że w przypadku podawania w takich fakturach numerów NIP nawet losowo generowanych, podmioty o tych NIP mają potencjalny dostęp do danych zawartych w takich fakturach. Jednocześnie przypominamy, że w środowisku testowym API oraz testowej wersji Aplikacji Podatnika nie należy używać rzeczywistych danych firmy. (link do środowiska testowego: <a href=\"https://ksef-test.mf.gov.pl/web/login\">https://ksef-test.mf.gov.pl/web/login</a>) W wersji produkcyjnej faktury trafiają do obiegu prawnego – są wystawione w KSeF, są to faktury ustrukturyzowane w rozumieniu ustawy VAT."
+        },
+        {
+            "question": "Czym różni się wersja KSeF testowa, przedprodukcyjna (Demo) od wersji produkcyjnej?",
+            "answer": "W wersji produkcyjnej faktury trafiają do obiegu prawnego – są wystawione w KSeF, są to faktury ustrukturyzowane w rozumieniu ustawy VAT. W wersji testowej i przedprodukcyjnej (Demo) faktury nie wywołują skutków prawnych. W wersji testowej możliwa jest symulacja poświadczeń co oznacza możliwość autoryzacji w kontekście dowolnego NIP. W wersji Demo poświadczenia działają tak samo jak na środowisku produkcyjnym, czyli oparte są o rzeczywiste narzędzia autoryzacyjne."
+        },
+        {
+            "question": "Co w przypadku wystawienia faktury dla klienta spoza UE? Czy należy ją wystawić w wersji papierowej?",
+            "answer": "W przypadku wystawiania faktury dla podmiotu gospodarczego spoza UE, faktura będzie wystawiana za pośrednictwem KSeF i przekazywana nabywcy w sposób z nim uzgodniony. Faktura taka opatrywana będzie kodem QR."
+        },
+        {
+            "question": "W jakim terminie należy przekazać fakturę do KSeF?",
+            "answer": "KSeF służy do wystawiania faktur, a nie do ich ewidencjonowania. Zatem za fakturę będzie uznawany dokument elektroniczny wystawiony w KSeF z nadanym numerem KSeF. KSeF nie wprowadził zmian w terminach wystawiania faktur. Terminy wystawiania faktur reguluje ustawa VAT. Jedynie w sytuacji awarii KSeF lub niedostępności systemu, ustawa reguluje terminy przekazania do KSeF faktur wystawionych w tym okresie."
+        },
+        {
+            "question": "Co się dzieje w przypadku gdy wysłana faktura do KSeF jest odrzucona, czy taka fakturę poprawiamy i wysyłamy ponownie ? Czy fakturę, która została odrzucona w KSeF można anulować lub wystawić korektę?",
+            "answer": "Faktura, która została odrzucona nie jest uznawana za wystawioną, zatem nie można do niej wystawić korekty ani jej anulować. W przypadku odrzucenia faktury przez system do decyzji podatnika należy, czy będzie chciał ją poprawić i wysłać ponownie do KSeF. Odrzucenie faktury przez system może wystąpić jedynie z powodu niezgodności struktury pliku z wzorem logicznym lub z powodu wprowadzania jej do systemu przez osobę nieuprawnioną. Zachęcamy do implementacji w systemach służących do fakturowania mechanizmów sprawdzających zgodność pliku xml ze wzorem struktury logicznej przed wysyłką pliku, co w praktyce wyeliminuje opisaną w pytaniu sytuację."
+        },
+        {
+            "question": "Czy w KSeF przewidziana jest procedura samofakturowania?",
+            "answer": "Tak. Sprzedawca uprawniający nabywcę do samofakturowania będzie musiał nadać nabywcy to uprawnienie w KSeF. Faktury w ramach tej procedury będą mogły być wystawiane bezpośrednio przez nabywcę oraz przez podmioty uprawnione przez niego do wystawiania faktur w KSeF."
+        },
+        {
+            "question": "Czy może być więcej wskazanych odbiorców faktury np. faktor?",
+            "answer": "Tak, struktura e-Faktury pozwala na wskazywanie dodatkowych podmiotów w tym m.in. faktorów. Wszystkie wskazane podmioty będą miały dostęp do faktury w ramach KSeF."
+        },
+        {
+            "question": "Czy numer faktury nadany przez KSeF powinien być zwrotnie przechowywany w systemach księgowych? Czy istnieją jakieś formy, obowiązki związane z raportowaniem nr KSeF?",
+            "answer": "W przypadku sprzedawcy istnieje konieczność przechowywania numeru KSeF z uwagi na wymóg podawania go w ewentualnie wystawianych fakturach korygujących. W przypadku nabywcy przepisy nie zakładają takiego obowiązku jednak w celach dowodowych warto ten numer przechowywać, gdyż fakt nadania tego numeru przesądza o tym, że faktura została wystawiona. Nie przewiduje się dodatkowych obowiązków związanych z raportowaniem numerów KSeF."
+        },
+        {
+            "question": "Czy KSeF pozwoli na odrzucenie faktury w przypadku błędnie wystawionej faktury przez podatnika np. na niewłaściwego nabywcę?",
+            "answer": "Nie, w takim wypadku wystawca faktury będzie zobligowany do wystawienia korekty faktury."
+        },
+        {
+            "question": "Faktura została przesłana do KSeF i został jej nadany numer identyfikujący w systemie. Sprzedawca chciałby dodatkowo przesłać nabywcy wydruk tej faktury. Czy na wydruku należy zawrzeć numer KSeF?",
+            "answer": "W strukturze FA(1) nie jest przewidziane pole zawierające numer KSeF faktury ustrukturyzowanej. Nie ma konieczności umieszczania numeru identyfikującego fakturę w KSeF na wydruku faktury."
+        },
+        {
+            "question": "Ile faktur korygujących można wystawić w KSeF do jednej faktury sprzedaży?",
+            "answer": "KSeF nie przewiduje ograniczeń pod kątem liczby faktur korygujących wystawionych do jednej faktury sprzedaży."
+        },
+        {
+            "question": "Czy faktury proforma mogą być wystawiane w KSeF?",
+            "answer": "Tzw. „proforma” nie jest fakturą w rozumieniu ustawy VAT. Zatem wystawianie takich dokumentów nie jest przewidziane w KSeF."
+        },
+        {
+            "question": "Zgodnie z przepisami ustawy o VAT warunkiem uznania faktury ustrukturyzowanej za wystawioną jest nadanie fakturze numeru KSeF. Czy oznacza to, że systemy księgowe muszą wstrzymać się z wprowadzaniem faktur sprzedażowych do momentu nadania numeru KSeF?",
+            "answer": "Zgodnie z art. 106na ust. 1 ustawy o VAT faktura jest uznana za wystawioną w dniu jej przesłania do Krajowego Systemu e-Faktur. W systemach księgowych w przypadkach, w których data wystawienia faktury ma wpływ na datę ujęcia zdarzenia w ewidencji, powyższe należy uwzględnić."
+        },
+        {
+            "question": "Jak powinna wyglądać korekta, jeżeli chcemy skorygować informacje niewpływające na wartość korekty, np. data sprzedaży, FP, MPP, TP, GTU itp. – czy to należy zrobić standardową korektą?",
+            "answer": "W przedstawionej sytuacji w KSeF można wystawić fakturę korygującą. W przypadku korekt niewpływających na wartość podstawy opodatkowania i kwotę podatku (np. data sprzedaży, oznaczenie FP, TP, adnotacja MPP, symbole GTU) w fakturze korygującej należy wskazać prawidłową treść korygowanych pozycji. Nadal istnieje również możliwość wystawienia w tym zakresie noty korygującej przez nabywcę (poza KSeF)."
+        },
+        {
+            "question": "Czy błędy formalne na fakturach będą wymagały wystawienia faktury korygującej?",
+            "answer": "Obecne brzmienie art. 106j ust. 1 ustawy o VAT obliguje do wystawienia faktury korygującej m. in. w sytuacji, gdy podatnik stwierdził pomyłkę w jakiejkolwiek pozycji faktury. W okresie dobrowolności KSeF, w określonych przypadkach istnieje możliwość wystawienia przez nabywcę noty korygującej poza systemem."
+        },
+        {
+            "question": "Czy papierowa forma faktury lub PDF formalnie będą całkowicie zbędne? Będą jedynie uprzejmością sprzedawcy względem nabywcy?",
+            "answer": "Tak papierowa forma faktury będzie zbędna. Obecnie nabywca może zażądać przekazania faktury w inny sposób np. papierowo lub elektronicznie."
+        },
+        {
+            "question": "Czy w KSeF można również wystawiać faktury dla osób prywatnych?",
+            "answer": "KSeF przewiduje możliwość wystawiania faktur dla podatników (B2B) jak również na rzecz osób nieprowadzących działalności gospodarczej (B2C) oraz umożliwia dostęp do tych faktur, m.in. poprzez tzw. dostęp anonimowy."
+        },
+        {
+            "question": "Data nadania numeru KSeF to według ustawy o VAT data dostarczenia faktury do odbiorcy. Jednak kontrahent nie dał nam zgody, ale my jako wystawca chcemy korzystać z systemu. Jak to wpływa na nas jako na wystawcę faktury? Jakie ma znaczenie data wysłania i czy ma ona jakiś związek z datą wystawienia faktury (pola z nagłówka z systemu do fakturowania)",
+            "answer": "W przypadku braku zgody nabywcy na otrzymywanie faktur ustrukturyzowanych w ramach KSeF, sprzedawca może przekazać, po uprzednim wystawieniu faktury ustrukturyzowanej w KSeF, w inny sposób, np. e-mailem (PDF), pocztą (wydruk). W takiej sytuacji dla sprzedawcy wiążąca jest data przesłania faktury do KSeF, natomiast nabywca ma prawo odliczenia nie wcześniej niż otrzyma fakturę poza KSeF."
+        },
+        {
+            "question": "Czy od kontrahenta, któremu wystawiam fakturę muszę otrzymać zgodę na przesłanie faktury przez KSeF? Czy zgoda jest domniemana?",
+            "answer": "Dla wystawienia faktury w KSeF nie jest konieczna zgoda kontrahenta. Kontrahent natomiast może nie wyrazić zgody na otrzymywanie faktur w KSeF. W przypadku braku zgody na otrzymywanie faktur w KSeF przez kontrahenta, taką fakturę należy dostarczyć do odbiorcy w inny uzgodniony sposób."
+        },
+        {
+            "question": "Czy numery nadane przez KSeF do naszych faktur będą musiały być przesyłane do odbiorców, aby ci mogli sobie pobrać faktury z KSeF?",
+            "answer": "Nie, odebranie faktury przez nabywcę nie wymaga posiadania przez niego nr KSeF faktury. Wyjątkiem jest tzw. anonimowy dostęp do faktury."
+        },
+        {
+            "question": "Czy będzie możliwe automatyczne pobieranie nowych faktury otrzymanych z systemu KSeF?",
+            "answer": "Automatyczne otrzymywanie nowych faktur z systemu KSeF jest możliwe. Szczegóły funkcjonalności uzależnione są od rozwiązań zaproponowanych przez dostawcę oprogramowania."
+        },
+        {
+            "question": "Proszę o informację co z fakturami wystawionymi błędnie na danego nabywcę, który ich nie akceptuje?",
+            "answer": "W przypadku wprowadzenia do systemu faktury na błędnego nabywcę (np. błędny NIP) w celu skorygowania zaistniałej sytuacji należy wystawić fakturę korygującą do zera z tym błędnym NIP nabywcy i odrębną fakturę (pierwotną) z prawidłowym numerem NIP nabywcy. Wynika to z uwarunkowań systemowych. Faktura z błędnym NIP nabywcy zostanie po przetworzeniu udostępniona podmiotowi o takim numerze NIP (o ile podmiot taki istnieje). Zatem z przytoczonego opisu wynika, że w takich przypadkach nie należy wystawiać faktury korygującej błędny numer NIP na inny prawidłowy, gdyż w systemie KSeF nie wystąpi sytuacja, że fakturę odebrał podmiot będący rzeczywistą stroną transakcji, a jedynie numer NIP podany w fakturze był błędny."
+        },
+        {
+            "question": "Czy po wystawieniu faktury w KSeF muszę wysłać do odbiorcy ten nr KSeF danej faktury? Czy dana faktura automatycznie pojawi się na koncie danego odbiorcy?",
+            "answer": "Nie ma konieczności wysyłania numeru KSeF e-faktury do odbiorcy, faktura będzie automatycznie dostępna w KSeF dla nabywcy. Nabywca może również uzyskać anonimowy dostęp do faktury, po wskazaniu zestawu określonych danych."
+        },
+        {
+            "question": "Czy odbiorca dostanie informację z KSeF, że jakiś podmiot wystawił dla niego fakturę?",
+            "answer": "Nie. Taka funkcjonalność nie jest zakładana, z uwagi na to, że dla podatników otrzymujących bardzo duże ilości faktur mogłoby to być utrudnieniem, a nie ułatwieniem. W celu uzyskania informacji o dostępnych fakturach program wykorzystywany przez podatnika będzie musiał „odpytywać” KSeF. Nie jest wiec wykluczone wprowadzanie takiej funkcjonalności na poziomie poszczególnych programów finansowo-księgowych. Zarówno wystawione jak i otrzymane faktury będą dostępne w narzędziu, które zostanie udostępnione przez Ministerstwo Finansów."
+        },
+        {
+            "question": "Co dokładnie jest sprawdzane przez system przed nadaniem nr KSeF?",
+            "answer": "Przed nadaniem numeru KSeF system weryfikuje poprawność semantyczną dokumentu oraz czy osoba wystawiająca fakturę posiada stosowne uprawnienie."
+        },
+        {
+            "question": "Jak będą wyglądały faktury wystawiane w walucie obcej dla kontrahentów polskich?",
+            "answer": "W takiej fakturze kwoty określone są wyłącznie w walucie obcej i jedynie kwota podatku w polu P_14_xW przeliczona jest na złotówki zgodnie z art. 106e ust. 11 ustawy o VAT. Wówczas oprócz pola KodWaluty wypełniane jest pole KursWaluty, względnie pole KursWalutyZ."
+        },
+        {
+            "question": "Czy wystawca faktury otrzyma zwrotnie nr nadany przez KSeF?",
+            "answer": "Tak, Nr KSeF jest zwracany w urzędowym poświadczeniu odbioru (UPO)."
+        },
+        {
+            "question": "Co należy rozumieć pod pojęciem wysłania? Co jeżeli faktura nie zostanie prawidłowo zwalidowana?",
+            "answer": "Przez pojęcie wysłania należy rozumień zainicjowanie wysyłki e-Faktury w ramach otwartej sesji. W przypadku odrzucenia faktury przez system nie zostanie ona przesłana do KSeF. W takim wypadku należy zweryfikować poprawność wprowadzonych danych i ponowić wysyłkę."
+        },
+        {
+            "question": "Czy planowany jest jakiś mechanizm akceptacji faktury przez przedsiębiorcę zanim możliwe będzie jej pobranie przez księgowego? Albo inny mechanizm kwestionowania otrzymanej faktury przez przedsiębiorcę zanim zostanie zaksięgowana?",
+            "answer": "W przypadku wysyłki przez wystawcę faktury jest ona weryfikowana semantycznie przez KSeF.  Nie ma mechanizmu akceptacji e-Faktury przez nabywcę w KSeF. Przepisy ustawy o podatku od towarów i usług nie regulują tej kwestii. Kwalifikacja otrzymanej faktury pod kątem prawa do odliczenia spoczywa na nabywcy. Pobranie e-Faktury nie oznacza automatycznego wprowadzenia jej do ewidencji."
+        },
+        {
+            "question": "Jakie walidacje będzie zapewniał KSeF dla przekazywanej faktury?",
+            "answer": "System będzie walidował zgodność struktury pliku XML ze wzorem logicznym e-Faktury w formacie XSD oraz posiadane uprawnienia do korzystania z KSeF."
+        },
+        {
+            "question": "Czy uzyskane numery KSeF w ramach samofakturowania będą musiały być wysyłane do dostawcy? Kto będzie przesyłał te dane do KSeF: odbiorca (samofakturujący się) czy sprzedawca?",
+            "answer": "Sprzedawca będzie miał w systemie KSeF dostęp do faktur wystawionych przez nabywcę w ramach procedury samofakturowania. Nie ma konieczności przekazywania sprzedawcy nr KSeF wystawionych faktur."
+        },
+        {
+            "question": "Czy istnieje możliwości dołączania do e-Faktury załączników, np. protokołów odbioru?",
+            "answer": "Nie jest możliwe dołączanie do faktur ustrukturyzowanych załączników. Natomiast istnieje możliwość zawarcia w treści faktury stosownego linka do takiej dokumentacji. Dodatkowe informacje można wpisać w polach DodatkowyOpis, DodatkoweInfo lub ewentualnie w stopce faktury. Załączniki mogą być również przekazywane w sposób odrębny poza KSeF."
+        },
+        {
+            "question": "Czy będzie możliwość edytowania wystawionej faktury? W razie jakiegoś błędu?",
+            "answer": "Jeżeli fakturze został już nadany numer KSeF to jedyną formą poprawienia danych w tej fakturze jest wystawienie faktury korygującej przez sprzedawcę"
+        },
+        {
+            "question": "Jeśli jako przedsiębiorca zatankuję na stacji paliw służbowy samochód, zapłacę gotówką i poproszę o fakturę na firmę. „Wystawią mi jakieś potwierdzenie? Wystawią fakturę w czasie rzeczywistym?",
+            "answer": "Faktury w KSeF są wystawiane w czasie rzeczywistym. Fakturę wystawia się nie później niż 15. dnia kolejnego miesiąca po miesiącu w którym nastąpiła dostawa towarów. KSeF nie zmienia tych terminów. Jeżeli nabywcą będzie podatnik, to faktura będzie wystawiona obowiązkowo w KSeF. Nabywca otrzyma fakturę (plik xml) w KSeF. Nie ma przeszkód aby sprzedawca wydał nabywcy dodatkowo wizualizację tej faktury."
+        },
+        {
+            "question": "Czy jeżeli osoba fizyczna, nieprowadząca działalność gospodarczą wynajmuje firmie lokal to od 01.01.2025 r. będzie musiała wystawiać faktury w KSeF-ie (nie jest zarejestrowana do VAT)?",
+            "answer": "Osoba wynajmująca mieszkanie na gruncie ustawy VAT jest podatnikiem prowadzącym działalność gospodarczą. Jeżeli jej sprzedaż jest zwolniona na podstawie art. 113 ustawy VAT lub wykonuje wyłącznie czynności zwolnione na podstawie art. 43 ust. 1 ustawy VAT – to obowiązkowo będzie wystawiała faktury w KSeF dopiero od 1 stycznia 2025 r"
+        },
+        {
+            "question": "Osoba prowadząca gospodarstwo rolne (rozlicza VAT) wystawia faktury za sprzedaż swoich plonów. Niekiedy kontrahentem jest firma. Czy takie gospodarstwo będzie musiało wystawiać fakturę w KSeF?",
+            "answer": "Rolnik będący podatnikiem VAT czynnym dokonując sprzedaży na rzecz innego podatnika będzie zobowiązany wystawiać faktury w KSeF od 1 lipca 2024 r."
+        },
+        {
+            "question": "Czy wizualizacja faktury może być w języku obcym lub dwujęzyczna?",
+            "answer": "Wizualizacja faktury (pliku xml) może być dokonana w języku obcym (lub może być dwujęzykowa). Kluczowe jest jednak aby treść faktury pod względem merytorycznym (po przetłumaczeniu) odpowiadała zawartości pliku xml przesłanego do KSeF."
+        },
+        {
+            "question": "Prowadzę wynajem lokalu jako osoba prywatna. Jestem podatnikiem VAT i wystawiam faktury dla firmy. Czy też takie faktury muszę wystawić w KSeF?",
+            "answer": "Jeżeli sprzedawcą usługi najmu jest podatnik VAT czynny, to od 1 lipca 2024 r. będzie wystawiał faktury w KSeF na rzecz innych podatników."
+        },
+        {
+            "question": "Kod QR jest to kod weryfikujący, który pozwoli zidentyfikować daną fakturę. Jest on nadawany automatycznie w oprogramowaniu interfejsowym na każdej fakturze. Co to jest kod QR i co on zawiera? Czy jest obowiązkowe umieszczanie go na fakturze KSeF?",
+            "answer": "Szczegóły techniczne dotyczące kodów QR są przedstawione w projekcie rozporządzenia wykonawczego dostępnego pod adresem: Projekt (rcl.gov.pl).\n\nOznaczanie wizualizacji kodem QR jest obowiązkowe. Przypadki w których dokonuje się wizualizacji faktury są wskazane w szczególności w art. 106gb ust. 5 i 6 ustawy, art. 106nf ust. 3, ust. 8 oraz art. 106nh ust. 4 ustawy wchodzącymi z życie z dniem 1 lipca 2024 r."
+        },
+        {
+            "question": "Jeżeli podatnik wystawia faktury za wykonane usługi specjalistyczne i będzie chciał, aby obszerny opis docierał do odbiorcy. Czy będzie mógł wystawić fakturę w formie papierowej (czy będzie to np. forma załącznika do faktury)?",
+            "answer": "Wystawianie faktur w KSeF będzie obowiązkowe od 1 lipca 2024r. KSeF nie przewiduje dodawania załączników. W celu ujęcia dodatkowych informacji na fakturze można wykorzystać pola DodatkowyOpis lub pole StopkaFaktury (zawiera maksymalnie 3500 znaków)."
+        },
+        {
+            "question": "Czy FV wystawiona w KSeF będzie widoczna dla osoby uprawnionej/biura rachunkowego od razu, czy dopiero po zatwierdzeniu jej przez nabywcę?",
+            "answer": "Faktura jest widoczna w momencie jej przetworzenia przez system KSeF. Dzieję się to co do zasady automatycznie bez opóźnień."
+        },
+        {
+            "question": "Czy mimo tego, że nabywca dostanie od nas fakturę w KSeF i tak musimy mu przesłać fakturę mailowo lub papierowo?",
+            "answer": "W okresie fakultatywnym KSeF – do końca czerwca 2024 r., jeżeli nabywca nie wyraził zgody na otrzymywanie faktur w KSeF, to należy jemu taką fakturę udostępnić w uzgodniony z nim sposób. Natomiast w okresie obligatoryjnym KSeF, do faktur wystawionych od 1 lipca 2024 r. to nie ma obowiązku dodatkowego przekazywania nabywcy wizualizacji takiej faktury. Wyjątkiem jest sytuacja obowiązkowego przekazania faktury kontrahentowi zagranicznemu w sposób z nim uzgodniony, z tym że podatnik może uzgodnić z takim kontrahentem „zagranicznym”, że przekazanie mu faktury nastąpi w KSeF. Wówczas zapewnia jedynie dane niezbędne do dostępu nabywcy do faktury w KSeF. Szczegóły zaproponowano w projekcie rozporządzenia w sprawie korzystania z KSeF dostępnego pod adresem: Projekt (rcl.gov.pl)."
+        },
+        {
+            "question": "Jak będą mogły wystawić fakturę osoby prowadzące działalność gospodarczą, a nie posiadające dostępu do internetu, profilu zaufanego, nie obsługujące komputera, etc.?",
+            "answer": "Obowiązek wprowadzenia KSeF został wydłużony w celu stworzenia zaplecza technicznego pozwalającego na korzystanie z KSeF. Warto do końca czerwca 2024 r. dostosować posiadane narzędzia do wymagań KSeF. Warto podkreślić, że korzystanie z Profilu Zaufanego jest bezpłatne, a Ministerstwo Finansów udostępnia bezpłatne narzędzia pozwalające na korzystanie z KSeF. Prosimy o zapoznanie się z materiałami na stronie: https://www.podatki.gov.pl/KSeF/aplikacja-podatnika-KSeF-i-inne-narzedzia/\nMożliwe jest uprawnienie innej osoby do wystawiania faktur w KSeF"
+        },
+        {
+            "question": "Czy wizualizacja faktur może być dowolna, skonfigurowana we własnym systemie FK? Czy powinna zawierać wszystkie dane z faktury i czy kod QR będzie obligatoryjny na wizualizacji?",
+            "answer": "Faktury w API KSeF dostępne są wyłącznie w postaci XML. Wizualizacja może być dowolna. Kwestia ta leży w gestii integratorów. Istotne jest tylko aby wizualizacja zawierała dane przesłane do KSeF w pliku xml. Wizualizacja powinna zawierać także kod QR."
+        },
+        {
+            "question": "Czy wizualizacja faktur może być dowolna, skonfigurowana we własnym systemie FK? Oczywiście wizualizacja zawierać będzie wszystkie dane z faktury. Czy kod QR będzie obligatoryjny na wizualizacji?",
+            "answer": "Faktury w API KSeF dostępne są wyłącznie w postaci XML.\n\nWizualizacja może być dowolna. Kwestia ta leży w gestii integratorów. Istotne tylko, aby wizualizacja zawierała dane przesłane do KSeF w pliku xml. Wizualizacja powinna zawierać także kod QR."
+        },
+        {
+            "question": "Czy faktury od dostawców zagranicznych bez polskiego NIP będą musiały być raportowane do KSeF?",
+            "answer": "KSeF nie służy do raportowania faktur od dostawców zagranicznych."
+        },
+        {
+            "question": "Czy faktury proforma mogą być wystawiane w KSeF?",
+            "answer": "Tzw. 'proforma' nie jest fakturą w rozumieniu ustawy VAT. Zatem wystawianie takich dokumentów nie jest przewidziane w KSeF."
+        },
+        {
+            "question": "Czy KSeF będzie obejmował faktury wystawiane na kasach fiskalnych online?",
+            "answer": "W okresie dobrowolności KSeF nie obejmuje faktur wystawianych przy użyciu kasy rejestrującej."
+        },
+        {
+            "question": "Czy faktury PDF dostarczane do konsumentów lub nabywców są równoważne (w rozumieniu prawnym/księgowym) z fakturami ustrukturyzowanymi?",
+            "answer": "Faktury wystawione w formacie PDF (wystawione poza KSeF) nie są tożsame z fakturą ustrukturyzowaną. Przez fakturę elektroniczną rozumie się fakturę w formie elektronicznej wystawioną i otrzymaną w dowolnym formacie elektronicznym. Natomiast faktura ustrukturyzowana jest przesyłana w formie pliku XML i wystawiona przy użyciu Krajowego Systemu e-Faktur wraz z przydzielonym numerem identyfikującym tę fakturę w tym systemie, która dodatkowo może być przekazywana po nadaniu numeru KSeF poza systemem w innej formie np. PDF. W okresie dobrowolności systemu, faktury ustrukturyzowane będą funkcjonowały w obrocie gospodarczym jako jedna z dopuszczanych form dokumentowania transakcji, obok faktur papierowych i obecnie występujących w obrocie gospodarczym faktur elektronicznych."
+        },
+        {
+            "question": "Czy i kiedy KSeF wskaże platformy brokerów?",
+            "answer": "W KSeF przyjęto inne rozwiązanie w porównaniu do PEF. KSeF nie potrzebuje wskazywania platformy brokerów, a dostarczanie przez podmioty komercyjne rozwiązań umożliwiających korzystanie z KSeF nie wymaga podpisywania umów z Ministerstwem Finansów."
+        },
+        {
+            "question": "Czy jeżeli osoba fizyczna, nieprowadząca działalność gospodarczą wynajmuje firmie lokal to od 01.01.2025 r. będzie musiała wystawiać faktury w KSeF-ie (nie jest zarejestrowana do VAT)?",
+            "answer": "Osoba wynajmująca mieszkanie na gruncie ustawy VAT jest podatnikiem prowadzącym działalność gospodarczą. Jeżeli jej sprzedaż jest zwolniona na podstawie art. 113 ustawy VAT lub wykonuje wyłącznie czynności zwolnione na podstawie art. 43 ust. 1 ustawy VAT – to obowiązkowo będzie wystawiała faktury w KSeF dopiero od 1 stycznia 2025 r."
+        },
+        {
+            "question": "Osoba prowadząca gospodarstwo rolne (rozlicza VAT) wystawia faktury za sprzedaż swoich plonów. Niekiedy kontrahentem jest firma. Czy takie gospodarstwo będzie musiało wystawiać fakturę w KSeF?",
+            "answer": "Rolnik będący podatnikiem VAT czynnym dokonując sprzedaży na rzecz innego podatnika będzie zobowiązany wystawiać faktury w KSeF od 1 lipca 2024 r."
+        },
+        {
+            "question": "Jestem lekarzem na kontrakcie cywilno-prawnym pracującym w szpitalu. Od kiedy mam obowiązek KSeF?",
+            "answer": "Zakładając, że pytanie dotyczy podatnika wykonującego wyłącznie czynności zwolnione na podstawie art. 43 ust. 1 ustawy - to będzie on zobowiązany wystawiać faktury w KSeF od 1 stycznia 2025 r."
+        },
+        {
+            "question": "Czy jak powiążę konto z KSeF i wystawię 2-3 faktury już dziś, a potem stwierdzę, że jednak nie chcę wystawiać i zacznę od 1 lipca 2024 tj. jak będzie obowiązek, to czy mogę wrócić z powrotem do trybu wystawiania jak do tej pory bez powiązania z KSeF?",
+            "answer": "Tak, w okresie fakultatywnym KSeF jest to możliwe. Należy jednak pamiętać, że faktury wystawione w KSeF trafią do obiegu prawnego."
+        },
+        {
+            "question": "Jak będą mogły wystawić fakturę osoby prowadzące działalność gospodarczą, a nie posiadające dostępu do internetu, profilu zaufanego, nie obsługujące komputera, etc.?",
+            "answer": "Obowiązek wprowadzenia KSeF został wydłużony w celu stworzenia zaplecza technicznego pozwalającego na korzystanie z KSeF. Warto do końca czerwca 2024r. dostosować posiadane narzędzia do wymagań KSeF. Korzystanie z Profilu Zaufanego jest bezpłatne, a Ministerstwo Finansów udostępnia bezpłatne narzędzia pozwalające na korzystanie z KSeF. Możliwe jest uprawnienie innej osoby do wystawiania faktur w KSeF."
+        },
+        {
+            "question": "Czy spółki cywilne będą mogły zarejestrować się w KSeF i wystawiać faktury w tym systemie?",
+            "answer": "Tak, jeżeli posiadają kwalifikowaną pieczęć elektroniczną, to za pomocą tej pieczęci mogą uwierzytelnić się w KSeF i wystawiać faktury ustrukturyzowane. Jeżeli takiej pieczęci nie posiadają, w KSeF mogą uwierzytelnić się za pośrednictwem uprawnionej osoby, wskazanej w złożonym do US zawiadomieniu ZAW-FA."
+        },
+        {
+            "question": "Czy będzie możliwość masowego pobierania faktur w postaci plików xml oraz PDF poprzez API?",
+            "answer": "Tak, jest przewidziana możliwość masowego pobierania faktur, ale wyłącznie w postaci XML."
+        },
+        {
+            "question": "Czy możliwe będzie wykonywanie operacji administracyjnych tj. np. wyznaczenie osób fakturujących oraz wygenerowanie tokenów autoryzacyjnych poprzez aplikację dostarczoną przez Ministerstwo Finansów? Innymi słowy czy aplikacja systemu ERP może autoryzować się wyłącznie tokenem?",
+            "answer": "Tak"
+        },
+        {
+            "question": "Czy tokeny są wieczne, czy wygasają?",
+            "answer": "KSeF nie określa czasu w jakim token jest ważny. Wygenerowany token pozostaje ważny do czasu jego unieważnienia przez użytkownika lub do dnia odebrania uprawnień użytkownikowi."
+        },
+        {
+            "question": "Czy KSeF przeszedł lub przejdzie audyt bezpieczeństwa przeprowadzony przez niezależną zewnętrzną firmę?",
+            "answer": "TAK, KSeF przeszedł audyt bezpieczeństwa."
+        },
+        {
+            "question": "Czy KSeF umożliwia sprawdzenie, że faktura została pobrana przez nabywcę?",
+            "answer": "KSeF nie umożliwia sprawdzenia, że faktura została pobrana przez nabywcę."
+        },
+        {
+            "question": "Czy na środowisku testowym istnieje możliwość wygenerowania pieczęci?",
+            "answer": "W wersji testowej API możliwe jest zastosowanie samodzielnie wygenerowanych podpisów i pieczęci: Za podpis można uznać certyfikat, który posiada w opisie podmiotu obowiązkowo pola imiona (OID.2.5.4.42) i nazwisko (OID.2.5.4.4) oraz opcjonalnie numer seryjny (OID.2.5.4.5) zgodnie z formatem: (PNOPL|PESEL).*?(?<number>\\d{11}) lub (TINPL|NIP).*?(?<number>\\d{10}) Za pieczęć można uznać certyfikat, który posiada w opisie podmiotu obowiązkowe pole identyfikatora organizacji (OID.2.5.4.97) zgodnie z formatem: (VATPL).*?(?<number>\\d{10})"
+        },
+        {
+            "question": "Czy jest przewidziana redundancja aplikacji na wypadek jej awarii? Jaka jest przewidywana dostępność aplikacji?",
+            "answer": "Tak, jest przewidziana redundancja systemu na wypadek jej awarii. System będzie działał 24/7/365 (24 godziny na dobę, 7 dni w tygodniu i 365 dni w roku)."
+        },
+        {
+            "question": "Czy serwery Ministerstwa Finansów są już gotowe na przyjmowanie dużych ilości faktur i ich archiwizowanie?",
+            "answer": "Tak, infrastruktura techniczna KSeF jest adekwatna do jego zakresu i skali."
+        },
+        {
+            "question": "Czy i kiedy KSeF wskaże platformy brokerów?",
+            "answer": "W KSeF przyjęto inne rozwiązanie w porównaniu do PEF. KSeF nie potrzebuje wskazywania platformy brokerów, a dostarczanie przez podmioty komercyjne rozwiązań umożliwiających korzystanie z KSeF nie wymaga podpisywania umów z Ministerstwem Finansów."
+        },
+        {
+            "question": "Czy wersja KSeF demo i przedprodukcyjna nie wysyła faktur do KSeF tylko jest to wersja testowa, a wersja produkcyjna KSeF wysyła faktury do KSeF?",
+            "answer": "Faktury wysyłane w wersji testowej i przedprodukcyjnej (Demo) trafiają do środowisk, które z założenia nie są środowiskami wywołującymi skutki prawne. Należy jednak pamiętać, że w przypadku podawania w takich fakturach numerów NIP nawet losowo generowanych, podmioty o tych NIP mają potencjalny dostęp do danych zawartych w takich fakturach. Jednocześnie przypominamy, że w środowisku testowym API oraz testowej wersji Aplikacji Podatnika nie należy używać rzeczywistych danych firmy. (link do środowiska testowego: https://ksef-test.mf.gov.pl/web/login)"
+        },
+        {
+            "question": "Czym różni się wersja KSeF testowa, przedprodukcyjna (Demo) od wersji produkcyjnej?",
+            "answer": "W wersji produkcyjnej faktury trafiają do obiegu prawnego – są wystawione w KSeF, są to faktury ustrukturyzowane w rozumieniu ustawy VAT. W wersji testowej i przedprodukcyjnej (Demo) faktury nie wywołują skutków prawnych. W wersji testowej możliwa jest symulacja poświadczeń co oznacza możliwość autoryzacji w kontekście dowolnego NIP. W wersji Demo poświadczenia działają tak samo jak na środowisku produkcyjnym, czyli oparte są o rzeczywiste narzędzia autoryzacyjne."
+        },
+        {
+            "question": "Czy zamieszczanie numeru KSeF w przelewie zgodnie z ustawą VAT będzie obowiązkowe dopiero od 1 stycznia 2025 r.?",
+            "answer": "Przepis dodawanego art. 108g ustawy VAT wchodzi w życie z dniem 1 lipca 2024 r. Jednak zgodnie z przepisem przejściowym (art. 17 ustawy zmieniającej) przepis art. 108g ustawy stosuje się do płatności dokonanych od dnia 1 stycznia 2025 r.\nZgodnie z nowelizacją ustawy o VAT art. 108a ust. 3 pkt 3 wprowadzającą obowiązkowy KSeF zamieszczenie numeru KSeF w przelewie będzie dotyczyło od 1 lipca 2024 r. wyłącznie faktur, których płatność regulowana jest w mechanizmie podzielonej płatności (kwoty VAT wpłacane na odrębny rachunek techniczny podatnika)"
+        },
+        {
+            "question": "Czy JPK FA będzie dalej obowiązywać, ale będzie wyłączony z raportowania?",
+            "answer": "W przypadku faktur wystawionych w KSeF, a także przesłanych do KSeF po awarii lub niedostępności, nie obowiązuje przekazywanie pliku JPK_FA na żądanie. Wyjątkiem są faktury wystawione poza KSeF, np. faktury konsumenckie wobec których JPK_FA nadal obwiązuje."
+        },
+        {
+            "question": "Czy do wystawiania faktur konieczne jest posiadanie programu do wystawiania faktur z płatną subskrypcją, czy można wystawiać poprzez KSeF?",
+            "answer": "Ministerstwo Finansów udostępnia bezpłatne narzędzia pozwalające na korzystanie z KSeF. Prosimy o zapoznanie się z materiałami na stronie: https://www.podatki.gov.pl/KSeF/aplikacja-podatnika-KSeF-i-inne-narzedzia/"
+        }
+    ]
+}
