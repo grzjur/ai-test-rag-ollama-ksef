@@ -35,3 +35,5 @@ Model radzi sobie dobrze z odpowiadaniem na proste i jednoznaczne pytania, ma wy
 ---
 ## Wnioski
 Modele **aya** i **mistral** najlepiej radziły sobie z generowaniem dokładnych odpowiedzi na zadane pytania. Model **llama3** również dobrze się spisał, choć wprowadzał nadmiarowe wstępy, które mogły zdezorientować użytkowników. Modele **wizardlm2, gemma i phi3** miały największe trudności z dostarczeniem poprawnych odpowiedzi, często wprowadzając błędne informacje i zbyt dużo niezwiązanych szczegółów.
+
+[Przykładowe odpowiedzi](https://github.com/grzjur/ai-test-rag-ollama-ksef/blob/main/result/result.json)
